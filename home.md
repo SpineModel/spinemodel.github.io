@@ -2,34 +2,38 @@
 
 # The Spine Model
 
-Going through life with a crooked spine is not a pleasant experience. Groups of people also have a spine - the organisational system that holds them together and defines how they interact and behave towards each other. Unfortunately many teams and organisations don't even know that their spine is far from straight.
+The model is used to map human organisational systems. Once you have mapped a system you can...
 
-The Spine Model gives a new way of thinking about human organisational systems. It allows you to map the system you are in and compare different systems in a useful way.
+* think about it in a far more useful way
+* generate new insights about why things are the way they are
+* make explicit and intentional changes
+* resolve unhealthy conflict
+* measure it
+* compare different systems
+ 
+Any system that requires humans to do work can be effectively mapped - most commonly this is done at a team level, however the model can be applied to a system boundary as narrow as a single meeting, or as wide as an entire organisation.
 
 # What is it?
 
-We refer to it as a meta-model for human organisational systems. More simply, it is a way of creating or mapping existing systems such as a team, department or even whole organisation.
+Based on a chain of levels, the model that can be thought of as vertebrae of a spine:
 
-It is based on a chain of levels that can be thought of as vertebrae of a spine:
+--{ Needs       }-- <br>
+--{ Values      }-- <br>
+--{ Principles  }-- <br>
+--{ [Practices] }-- <br>
+--{ Tools       }--
 
-* Needs
-* Values
-* Principles
-* [Practices]
-* Tools
+You always measure against the highest level. The higher levels should set the frame for what is acceptable lower down (e.g. does this practice *satisfy* all the higher levels?).
+
+So, the higher levels sets the bounds in which creativity can foster.
 
 # Why is it useful?
 
 The structure of a human organisational system can be either implicit or explicit. By making the structure explicit, starting at the reason the system exists in the first place "Needs", your chances of having a well functioning system are greatly enhanced.
 
-You can use Spine to deepen understanding of how human systems work, resolve unhealthy conflict and generate new insights.
+By mapping a system you create an opportunity for useful conversations to occur, and actions to be chosen that are ecologically appropriate for the system.
 
 # How can I use it?
 
-* xxx
+* xxx TODO
 * yyy
-
-
------
-Bits:
-There are many schools of thought about how best to organise groups of people. We need a way to usefully compare these different approaches and to decide which of them, or which parts are useful in a specific context.
