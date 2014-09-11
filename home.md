@@ -1,4 +1,5 @@
 <link href="markdown.css" rel="stylesheet"></link>
+<div id="banner"><img src="images/spine.png" align="right"/></div>
 
 # The Spine Model
 
@@ -17,11 +18,11 @@ Any system that requires humans to do work can be effectively mapped - most comm
 
 Based on a chain of levels, the model that can be thought of as vertebrae of a spine:
 
---{ Needs       }-- <br>
---{ Values      }-- <br>
---{ Principles  }-- <br>
---{ [Practices] }-- <br>
---{ Tools       }--
+--{ <a href="needs.html">Needs</a>       }-- <br>
+--{ <a href="values.html">Values</a>      }-- <br>
+--{ <a href="principles.html">Principles</a>  }-- <br>
+--{ <a href="practices.html">[Practices]</a> }-- <br>
+--{ <a href="tools.html">Tools</a>       }--
 
 You always measure against the highest level. The higher levels should set the frame for what is acceptable lower down (e.g. does this practice *satisfy* all the higher levels?).
 
@@ -35,5 +36,4 @@ By mapping a system you create an opportunity for useful conversations to occur,
 
 # How can I use it?
 
-* xxx TODO
-* yyy
+TODO

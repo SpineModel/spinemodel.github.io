@@ -101,6 +101,10 @@ hr {
     color: #999;
 }
 
+banner {
+    position: relative;
+}
+
 /* Code below this line is copyright Twitter Inc. */
 
 button,
