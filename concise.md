@@ -23,11 +23,11 @@ Needs > Values > Principles > Practices > Tools.
 
 ## The 5 fundamental assertions of the Spine Model are:
 
-1. Before you can know which Tools to use, you need to decide what Practices are important.
-1. Before you can know which Practices are important, you need to know which Principles apply.
-1. Before you can know which Principles apply, you need to know what Values you are optimising for.
-1. Before you can know which Values are important to optimise for, you need to know what Needs the system exists to satisfy.
-1. Before you can know which Needs are important to satisfy, you need to define the boundaries of the system you talking about.
+1. In order to know which Tools to use, you need to ask what Practices are important.
+1. In order to know which Practices are important, you need to know which Principles apply.
+1. In order to know which Principles apply, you need to know what Values you are optimising for.
+1. In order to know which Values are important to optimise for, you need to know what Needs the system exists to satisfy.
+1. In order to know which Needs are important to satisfy, you need to define the boundaries of the system you talking about.
 
 ## Definition of Terms:
 
