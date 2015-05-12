@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Resource vs Flow Optimisation
-category : Principle
+title: Communication
+category : Value
 tagline: ""
 author: Kevin Trethewey
-tags: [Flow]
+tags: []
 ---
 {% include JB/setup %}
 
