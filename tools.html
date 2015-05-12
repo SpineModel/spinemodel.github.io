@@ -1,7 +1,10 @@
-<link href="markdown.css" rel="stylesheet"></link>
-<div id="banner">
-<img src="images/spine-tools.png" align="right"/>
-</div>
-<h1 id="tools">Tools</h1>
-<p>Mechanisation and automation of practices.</p>
-<p>TODO</p>
+---
+layout: page
+title : 5 - Tools
+header : xcvbn
+group: navigation
+---
+{% include JB/setup %}
+
+{% assign posts_collate = (site.posts | where: "category" , "Tool") %}
+{% include JB/posts_collate %}

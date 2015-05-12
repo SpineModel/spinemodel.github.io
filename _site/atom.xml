@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Spine Model</title>
+ <link href="http://spinemodel.github.io/" rel="self"/>
+ <link href="http://spinemodel.github.io"/>
+ <updated>2015-05-12T10:16:00+02:00</updated>
+ <id>http://spinemodel.github.io</id>
+ <author>
+   <name>Kevin Trethewey, Danie Roux, Joanne Perold and Collaborators</name>
+   <email>spine@driven.email</email>
+ </author>
+
+ 
+ <entry>
+   <title>Resource vs Flow Optimisation</title>
+   <link href="http://spinemodel.github.io/principle/resource%20vs%20flow%20optimisation"/>
+   <updated>2015-05-12T00:00:00+02:00</updated>
+   <id>http://spinemodel.github.io/principle/resource vs flow optimisation</id>
+   <content type="html">
+&lt;h1 id=&quot;xxx&quot;&gt;XXX&lt;/h1&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Concise Explanation</title>
+   <link href="http://spinemodel.github.io/explanation/concise"/>
+   <updated>2015-03-15T00:00:00+02:00</updated>
+   <id>http://spinemodel.github.io/explanation/concise</id>
+   <content type="html">
+&lt;h1 id=&quot;the-spine-model&quot;&gt;The Spine Model&lt;/h1&gt;
+&lt;p&gt;&lt;img style=&quot;float: right; border: 30px solid white&quot; src=&quot;/assets/images/spine.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The model is used to map human organisational systems. Once you have mapped a system you can…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;think about it in a far more useful way&lt;/li&gt;
+  &lt;li&gt;generate new insights about why things are the way they are&lt;/li&gt;
+  &lt;li&gt;make explicit and intentional changes&lt;/li&gt;
+  &lt;li&gt;resolve unhealthy conflict&lt;/li&gt;
+  &lt;li&gt;measure it&lt;/li&gt;
+  &lt;li&gt;compare different systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Any system that requires humans to do work can be effectively mapped - most commonly this is done at a team level, however the model can be applied to a system boundary as narrow as a single meeting, or as wide as an entire organisation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is a concise description of the model. For a more detailed description, &lt;a href=&quot;/explanation/introduction/&quot;&gt;read the full story&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;spine-model-fundamentals&quot;&gt;Spine Model Fundamentals&lt;/h1&gt;
+
+&lt;p&gt;Needs &amp;gt; Values &amp;gt; Principles &amp;gt; Practices &amp;gt; Tools.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-5-fundamental-assertions-of-the-spine-model-are&quot;&gt;The 5 fundamental assertions of the Spine Model are:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In order to know which Tools to use, you need to ask what Practices are important.&lt;/li&gt;
+  &lt;li&gt;In order to know which Practices are important, you need to know which Principles apply.&lt;/li&gt;
+  &lt;li&gt;In order to know which Principles apply, you need to know what Values you are optimising for.&lt;/li&gt;
+  &lt;li&gt;In order to know which Values are important to optimise for, you need to know what Needs the system exists to satisfy.&lt;/li&gt;
+  &lt;li&gt;In order to know which Needs are important to satisfy, you need to define the boundaries of the system you talking about.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;definition-of-terms&quot;&gt;Definition of Terms:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Needs&lt;/strong&gt; - Firstly, at a system level, through the eyes of its creators, owners or sponsors, why does this system exist? Secondly, at an individual level, what needs I hope to have met through being a part of this system? &lt;/p&gt;
+
+&lt;p&gt;Answers the question: &lt;em&gt;The system exists in order that &lt;strong&gt;__&lt;/strong&gt; .&lt;/em&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Values&lt;/strong&gt; - Firstly, at a system level, if you have these things you are most likely to meet the Need. Secondly, at a personal level, these are the things that will keep me in the system. &lt;/p&gt;
+
+&lt;p&gt;Answers the question: &lt;em&gt;We optimise the system for &lt;strong&gt;__&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Principles&lt;/strong&gt; - These are the cause-effect dynamics by which we believe the system behaves, and how we will take advantage of them. &lt;/p&gt;
+
+&lt;p&gt;Answers the question: &lt;em&gt;We leverage _____ to maintain or change the system.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Practices&lt;/strong&gt; - These are the concrete activities we use to get the work done. &lt;/p&gt;
+
+&lt;p&gt;Answers the question: &lt;em&gt;We do _____ to create or increase value.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; - These are the automations and mechanisations that make the work easier to do. &lt;/p&gt;
+
+&lt;p&gt;Answers the question: &lt;em&gt;We use _____ to get the work done more efficiently.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Needs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Organisational level: We make money&lt;/li&gt;
+  &lt;li&gt;Team level: We ensure a particular service is supplied. &lt;/li&gt;
+  &lt;li&gt;Individual level: We satisfy my need for self-expression.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Values&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Feedback&lt;/li&gt;
+  &lt;li&gt;Communication &lt;/li&gt;
+  &lt;li&gt;Respect&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Principles&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Batch Size - Decreasing batch sizes of completed work increase the regularity of feedback.&lt;/li&gt;
+  &lt;li&gt;Work in Progress - By limiting work in progress to the capacity of the system we increase throughput&lt;/li&gt;
+  &lt;li&gt;Flexible boundaries - Prefer heuristics over hard rules&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Practices&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Daily Stand Up meetings&lt;/li&gt;
+  &lt;li&gt;Annual performance reviews&lt;/li&gt;
+  &lt;li&gt;Lunch hour&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Email&lt;/li&gt;
+  &lt;li&gt;JIRA&lt;/li&gt;
+  &lt;li&gt;CRM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is a concise description of the model. For a more detailed description, &lt;a href=&quot;/explanation/introduction/&quot;&gt;read the full story&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Spine Model Story</title>
+   <link href="http://spinemodel.github.io/explanation/introduction"/>
+   <updated>2015-03-14T00:00:00+02:00</updated>
+   <id>http://spinemodel.github.io/explanation/introduction</id>
+   <content type="html">
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;For a more concise description of the model, &lt;a href=&quot;/explanation/concise/&quot;&gt;read this&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a work context, maintaining a shared perception of the way things currently are, and agreement on the way they should be is a Hard Problem.&lt;/p&gt;
+
+&lt;p&gt;Through our team and organisational coaching work we (Danie Roux, Joanne Perold and Kevin Trethewey) have collaborated to refine a simple and powerful model for understanding, mapping and working with human work systems.&lt;/p&gt;
+
+&lt;p&gt;We think of a human work system as any context in which, in order to create value, humans must collaborate together in joint effort.&lt;/p&gt;
+
+&lt;h1 id=&quot;its-about-the-right-conversations&quot;&gt;It’s about: The Right Conversations&lt;/h1&gt;
+
+&lt;p&gt;Effective conversations make for effective collaboration. Often people get stuck in a dilemma where equally plausible options are available and the conversations turn into undecidable arguments.&lt;/p&gt;
+
+&lt;p&gt;It is almost always a moment where “going up the Spine” breaks the deadlock (more about that later).&lt;/p&gt;
+
+&lt;h1 id=&quot;its-a-tool-problem&quot;&gt;It’s a TOOL Problem&lt;/h1&gt;
+&lt;p&gt;As a species, we have always been &lt;em&gt;Tool&lt;/em&gt; users and makers. When we have the best tools available to us, we can better express our thoughts and ideas to turn them into reality. &lt;/p&gt;
+
+&lt;p&gt;Tools are answer the question: “We &lt;em&gt;use&lt;/em&gt; _____ to get our work done”.&lt;/p&gt;
+
+&lt;p&gt;Make sure you have the right tools for the job. Spend as much money as you need to get those tools. Have many useful discussions about if the rights tool are available in the current work system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But.&lt;/strong&gt; How do you know it is the best possible tool? &lt;/p&gt;
+
+&lt;h2 id=&quot;practices-before-tools&quot;&gt;PRACTICES before Tools&lt;/h2&gt;
+&lt;p&gt;You need to “go up the Spine”. First decide on the &lt;em&gt;Practices&lt;/em&gt; that the tools are there to support. Practices are concrete behaviours that can be observed in a human system. They are &lt;em&gt;ways&lt;/em&gt; of doing the work.&lt;/p&gt;
+
+&lt;p&gt;Practices answer the question: “We &lt;em&gt;do&lt;/em&gt; _____ to create value”.&lt;/p&gt;
+
+&lt;p&gt;Why has the “Single List of Best Practices for all Contexts” not been written yet? Because it is rarely obvious which practices will work most effectively for the current context. Choose and adapt Practices that benefit the wider system and are optimal for that exact time and place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But.&lt;/strong&gt; How do you know that the &lt;em&gt;Practices&lt;/em&gt; actively help the system?&lt;/p&gt;
+
+&lt;h2 id=&quot;principles-before-practices&quot;&gt;PRINCIPLES before Practices&lt;/h2&gt;
+&lt;p&gt;You need to “go up the Spine” some more. First deciding on the &lt;em&gt;Principles&lt;/em&gt; to measure those &lt;em&gt;Practices&lt;/em&gt; against.&lt;/p&gt;
+
+&lt;p&gt;Principles answer the question: “We &lt;em&gt;leverage&lt;/em&gt; _____ to change the system”.&lt;/p&gt;
+
+&lt;p&gt;It is important to understand how human work systems behave and &lt;em&gt;Principles&lt;/em&gt; are the route to doing so. Principles are those things behind the Practices. Every Practice comes into existence because it tries to express a set of Principles.&lt;/p&gt;
+
+&lt;p&gt;These are the rules by which a human work system behaves. They are what we like to refer to as &lt;em&gt;‘ecological levers’&lt;/em&gt; - the knobs and dials you can use to change the current state of the system.&lt;/p&gt;
+
+&lt;p&gt;We have extracted important principles from several different sciences - Queuing Theory, Complexity Science and Theory of Constraints to name just three.&lt;/p&gt;
+
+&lt;p&gt;For example: We know that if you increase batch size you delay feedback. If you reduce batch size you increase feedback. This principle remains true regardless of the context of the human work system.&lt;/p&gt;
+
+&lt;p&gt;You need to be able to debate which &lt;em&gt;Principles&lt;/em&gt; people are basing assumptions on. You need to understand which &lt;em&gt;Principles&lt;/em&gt; are important in your context so that you make sure you can leverage them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But.&lt;/strong&gt; How do you know which &lt;em&gt;Principles&lt;/em&gt; you want to apply?&lt;/p&gt;
+
+&lt;h2 id=&quot;values-before-principles&quot;&gt;VALUES before Principles&lt;/h2&gt;
+&lt;p&gt;You need to go up the Spine even more. First make as explicit as possible the &lt;em&gt;Values&lt;/em&gt; at play in the system.&lt;/p&gt;
+
+&lt;p&gt;Values answer the question: “We &lt;em&gt;optimise&lt;/em&gt; for _____”.&lt;/p&gt;
+
+&lt;p&gt;Any system exist as a sort of magnetic field that attracts the things it wants and repels the things it doesn’t want. The labels that name the parts of that magnetic field are what we call &lt;em&gt;Values&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You need to know what the important Values are in your system. Values help you know what to optimise for. The better you can describe this magnetic field, the better you can filter which Principles are worth focussing on.&lt;/p&gt;
+
+&lt;p&gt;We make a clear distinction between Personal Values and System Values.&lt;/p&gt;
+
+&lt;p&gt;Personal Values are embodied in you and in the way that you react to the external world. If you “check out”, it is always because your personal values are not being honoured. For a system to be an attractor, it needs to actively attract at least a part of your value field. For other people to know how to honour these values, you have to spend the time helping them understand which behaviours attracts you and which repels you.&lt;/p&gt;
+
+&lt;p&gt;There are also System Values. Extreme Programming, for example, says the five important values are: Respect, Courage, Feedback, Simplicity and Communication. That’s actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.&lt;/p&gt;
+
+&lt;p&gt;If a group get to the point where they create a combined attractor field and all their values have a space to be honoured, you will have a well functioning human work system. And ultimately that field will collapse and fail if this is where you stop.&lt;/p&gt;
+
+&lt;p&gt;For a system to stay healthy, that system has to have something to aim for.&lt;/p&gt;
+
+&lt;h2 id=&quot;needs-before-values&quot;&gt;NEEDS before Values&lt;/h2&gt;
+&lt;p&gt;It all starts at &lt;em&gt;Needs&lt;/em&gt;. Why does this system exist in the first place?&lt;/p&gt;
+
+&lt;p&gt;Needs answer the question: “We are here to &lt;em&gt;satisfy&lt;/em&gt; _____”.&lt;/p&gt;
+
+&lt;p&gt;You need to know that. As a human work system, why do we exist - what are the needs that we are satisfying? As a human in the system, which of my needs to I expect to be satisfied by being a part of this system?&lt;/p&gt;
+
+&lt;p&gt;This is the place to start.&lt;/p&gt;
+
+&lt;p&gt;Needs are context specific. You have to know them for your specific system and you have to be specific about where the system boundary is.&lt;/p&gt;
+
+&lt;p&gt;You are also never going to get it exactly right and they are going to change over time. So you can only ever have a near approximation that you revisit regularly. Make sure the right people are in the room when you do this.&lt;/p&gt;
+
+&lt;p&gt;It probably wouldn’t be useful for a team to sit on their own and decide why they exist. You need to get the people who are sponsoring that team into the discussion, and you need to have the discussion again regularly.&lt;/p&gt;
+
+&lt;p&gt;This connected path, Tools to Practices, Practices to Principles, Principles to Values, Values to Needs is the heart of what we call “The Spine Model”…&lt;/p&gt;
+
+&lt;h1 id=&quot;introducing-the-spine-model&quot;&gt;Introducing: The Spine Model&lt;/h1&gt;
+&lt;p&gt;&lt;img style=&quot;float: right; border: 30px solid white&quot; src=&quot;/assets/images/spine.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you understand the reason the system exists in the first place and the reason you want to be a part of the system (Needs), you can decide what to optimise for (Values). Once you have decided what you are optimising for you can decide what ecological levers are going to get you there (Principles). Once you have that, then decide how you are going to do it (Practices). And once you have done that, decide if any mechanisation is needed (Tools).&lt;/p&gt;
+
+&lt;p&gt;We refer to this model as the &lt;strong&gt;Spine Model&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;The model is a synthesis of several people’s work, as well as our own. You see the Values to Principles to Practices part in XP. The Needs to Values part has roots in NLP. Starting at needs is NVC based.&lt;/p&gt;
+
+&lt;p&gt;We see a lot of crooked spines in organisations. Quasimodo-like creations that are doomed to failure. Crooked spines are caused by people only focussing on part of the Spine. Stay with Practices and Tools and implicit and misaligned assumptions are generated about why we are here and where we are going. Stay with Needs and Values and pain is felt when it comes to where, when and how we are going to accomplish anything.&lt;/p&gt;
+
+&lt;p&gt;If you want a straight spine, you have to start at the top, at &lt;em&gt;Needs&lt;/em&gt; and work down, iteratively. This will keep your spine straight.&lt;/p&gt;
+
+&lt;p&gt;Many useless arguments also stay at the lower part of the spine. Arguing about choosing your favourite Tool above another is usually a waste of energy. During these arguments it is best to “go up the spine”. Ask what the &lt;em&gt;Need&lt;/em&gt; is that the &lt;em&gt;Tool&lt;/em&gt; is trying to satisfy, then work your way down again.&lt;/p&gt;
+
+&lt;h1 id=&quot;unanswered-questions&quot;&gt;Unanswered questions&lt;/h1&gt;
+
+&lt;p&gt;This model surfaces interesting questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do you actually apply this?
+    &lt;ul&gt;
+      &lt;li&gt;What is a system? How do you define the system boundaries?&lt;/li&gt;
+      &lt;li&gt;Who decides what is important at each level of the Spine? Who should?&lt;/li&gt;
+      &lt;li&gt;How do you get clarity on what the Needs are?&lt;/li&gt;
+      &lt;li&gt;How do you elicit Values from people? How do you contract them in a team?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the role of management in a human work system?&lt;/li&gt;
+  &lt;li&gt;What is the role of leadership in a human work system?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will address these questions and more as we expand this page.&lt;/p&gt;
+
+&lt;h1 id=&quot;next-action&quot;&gt;Next action&lt;/h1&gt;
+
+&lt;p&gt;If reading this generated some thoughts, if you would like to know more about this model and how to apply it, contact Danie, Joanne and Kevin at spine@driven.email, we would be very interested to hear your feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For a more concise description of the model, &lt;a href=&quot;/explanation/concise/&quot;&gt;read this&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,5 +1,10 @@
-<link href="markdown.css" rel="stylesheet"></link>
-<div id="banner">
-<img src="images/spine-needs.png" align="right"/>
-</div>
-<p>TODO</p>
+---
+layout: page
+title : 1 - Needs
+header : xcvbn
+group: navigation
+---
+{% include JB/setup %}
+
+{% assign posts_collate = (site.posts | where: "category" , "Need") %}
+{% include JB/posts_collate %}

@@ -1,5 +1,10 @@
-<link href="markdown.css" rel="stylesheet"></link>
-<div id="banner">
-<img src="images/spine-values.png" align="right"/>
-</div>
-<p>TODO</p>
+---
+layout: page
+title : 2 - Values
+header : xcvbn
+group: navigation
+---
+{% include JB/setup %}
+
+{% assign posts_collate = (site.posts | where: "category" , "Value") %}
+{% include JB/posts_collate %}

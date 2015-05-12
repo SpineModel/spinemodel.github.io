@@ -1,15 +1,10 @@
-<link href="markdown.css" rel="stylesheet"></link>
-<div id="banner">
-<img src="images/spine-principles.png" align="right"/>
-</div>
-<h1 id="principles">Principles</h1>
-<p>Can best be described as &quot;ecological levers&quot;. They are the switches and dials that you can use to effect a desired change to a system. They are the universal truths and rules that govern the behaviours of all human organisational systems.</p>
-<h2 id="heuristics">Heuristics</h2>
-<p>System boundaries can be put in place by providing heuristic rules to govern a particular principle.</p>
-<p>People tend to remember heuristic better when they come in threes. For example we often use these three for teams:</p>
-<ul>
-<li><strong>Increase</strong> feedback [TODO: link to feedback principle]</li>
-<li><strong>Decrease</strong> batch size (see <a href="principles/batch-size.html">Batch size</a> principle)</li>
-<li><strong>Pull</strong> work through the system [TODO: link to push-vs-pull principle]</li>
-</ul>
-<p>This does not tell teams what practices to use, however they can be measured against whether or not they are applying the principles in a desirable way.</p>
+---
+layout: page
+title : 3 - Principles
+header : xcvbn
+group: navigation
+---
+{% include JB/setup %}
+
+{% assign posts_collate = (site.posts | where: "category" , "Principle") %}
+{% include JB/posts_collate %}

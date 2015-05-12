@@ -1,0 +1,16 @@
+
+http://spinemodel.github.io/atom.xml
+http://spinemodel.github.io/index.html
+http://spinemodel.github.io/needs.html
+http://spinemodel.github.io/pages.html
+http://spinemodel.github.io/practices.html
+http://spinemodel.github.io/principles.html
+http://spinemodel.github.io/rss.xml
+http://spinemodel.github.io/sitemap.txt
+http://spinemodel.github.io/tags.html
+http://spinemodel.github.io/tools.html
+http://spinemodel.github.io/values.html
+
+http://spinemodel.github.io/principle/resource%20vs%20flow%20optimisation
+http://spinemodel.github.io/explanation/concise
+http://spinemodel.github.io/explanation/introduction
