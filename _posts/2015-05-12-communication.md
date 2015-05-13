@@ -8,4 +8,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-coming soon
+#### As defined in eXtreme Programming (XP)
+Everyone is part of the team and we communicate face to face daily. We will work together on everything from requirements to code. We will create the best solution to our problem that we can together.
+
+from [extremeprogramming.org/values](http://www.extremeprogramming.org/values.html)
