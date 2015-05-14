@@ -10,7 +10,7 @@ If you're new to the Spine Model, start [here](/explanation/introduction).
 
 <br>
 
-#### Most recent items...
+#### Most recent updates...
 <ul class="posts">
   {% for post in site.posts %}
     
