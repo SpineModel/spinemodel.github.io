@@ -12,7 +12,7 @@ The Scrum Master is responsible for ensuring Scrum is understood and enacted. Sc
 
 The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 
-#### Scrum Master Service to the Product Owner
+## Scrum Master Service to the Product Owner
 The Scrum Master serves the Product Owner in several ways, including:
 
 * Finding techniques for effective Product Backlog management;
@@ -22,7 +22,7 @@ The Scrum Master serves the Product Owner in several ways, including:
 * Understanding and practicing agility; and,
 * Facilitating Scrum events as requested or needed.
 
-#### Scrum Master Service to the Development Team
+## Scrum Master Service to the Development Team
 The Scrum Master serves the Development Team in several ways, including:
 
 * Coaching the Development Team in self-organization and cross-functionality;
@@ -31,7 +31,7 @@ The Scrum Master serves the Development Team in several ways, including:
 * Facilitating Scrum events as requested or needed; and,
 * Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
 
-#### Scrum Master Service to the Organization
+## Scrum Master Service to the Organization
 The Scrum Master serves the organization in several ways, including:
 
 * Leading and coaching the organization in its Scrum adoption;

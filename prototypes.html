@@ -1,0 +1,14 @@
+---
+layout: page
+title : Prototypes
+header : xcvbn
+group: navigation
+---
+{% include JB/setup %}
+
+<p>
+[To Do](/Explanation/TODO)
+</p>
+
+{% assign posts_collate = (site.posts | where: "category" , "Prototype") %}
+{% include JB/posts_collate %}

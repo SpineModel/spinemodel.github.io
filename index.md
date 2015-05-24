@@ -5,12 +5,17 @@ tagline: a sensemaking framework for human work systems
 ---
 {% include JB/setup %}
 
-#### First time here?
+## What need does the model satify?
+The invisible structure of a human organisational system can be either implicit or explicit. By making the structure explicit, starting at the reason the system exists in the first place, [Needs](/Needs.html), your chances of having a well functioning system are greatly enhanced.
+
+Based on a chain of levels, the model can be thought of as vertebrae of a spine. You always measure against the highest level. The higher levels should set the frame for what is acceptable lower down (e.g. does this [Practice](/Practices.html) *satisfy* our choices at higher levels?).
+
+By mapping a system together you create an opportunity for useful conversations to occur, and actions to be chosen that are ecologically appropriate for the system.
+
+## First time here?
 If you're new to the Spine Model, start [here](/explanation/introduction).
 
-<br>
-
-#### Most recent updates...
+## Most recent updates...
 <ul class="posts">
   {% for post in site.posts %}
     

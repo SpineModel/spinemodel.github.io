@@ -17,6 +17,7 @@
 h1, h2, h3, h4 {
   color: #c7952a;
 }
+
 #footer {
   background-color: #89875c;
 }
@@ -26,6 +27,10 @@ h1, h2, h3, h4 {
 }
 
 /* posts index */
+h2 {
+  font-size: 18px;
+}
+
 .post > h3.title {
   position: relative;
   padding-top: 10px; }

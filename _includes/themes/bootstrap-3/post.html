@@ -11,6 +11,7 @@
       {{ content }}
     </div>
 
+<!--
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="glyphicon glyphicon-open"></i></li>
@@ -18,6 +19,7 @@
       {% include JB/categories_list %}
     </ul>
   {% endunless %}  
+-->
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -27,6 +29,7 @@
     </ul>
   {% endunless %}  
   
+  <!--
     <hr>
     <ul class="pagination">
     {% if page.previous %}
@@ -41,7 +44,9 @@
       <li class="next disabled"><a>Next &rarr;</a>
     {% endif %}
     </ul>
+    -->
     <hr>
+    
     {% include JB/comments %}
   </div>
 </div>
