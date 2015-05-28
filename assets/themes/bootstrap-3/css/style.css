@@ -33,7 +33,7 @@ h2 {
 
 p {
     max-width: 800px;
-    position: justify;
+    text-align: justify;
 }
 
 .post > h3.title {
