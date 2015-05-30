@@ -1,5 +1,8 @@
 <ul class="posts">
-  {% for post in posts_collate %}
+
+  {% assign sorted_posts = (posts_collate | sort: 'title') %}
+
+  {% for post in sorted_posts %}
   	
   	<!-- Add a dash if there is a tagline -->
     {% assign spacer = "-" %}
