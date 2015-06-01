@@ -10,7 +10,7 @@ The invisible structure of a human organisational system can be either implicit 
 
 Based on a chain of levels, the model can be thought of as vertebrae of a spine. You always measure against the highest level. The higher levels should set the frame for what is acceptable lower down (e.g. does this [Practice](/Practices.html) *satisfy* our choices at higher levels?).
 
-By mapping a [System](/FAQ/WhatIsASystem) together you create an opportunity for useful conversations to occur, and actions to be chosen that are ecologically appropriate.
+By collaboratively mapping a [System](/FAQ/WhatIsASystem), you create an opportunity for useful conversations to occur and actions to be chosen that are ecologically appropriate.
 
 ## First time here?
 If you're new to the Spine Model, start [here](/explanation/introduction).
