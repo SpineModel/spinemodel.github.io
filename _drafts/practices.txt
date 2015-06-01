@@ -1,0 +1,117 @@
+Boards
+------------
+Fixed cadence
+Work in Progress (WIP) limits
+Avatars
+Column policies
+Left-to-right or right-to-left flow
+Visual representation of moving vs blocked
+Board in the space
+The work moves, not the people
+Coloured dots
+
+Stand ups
+------------
+Do a Temperature/Energy check
+Ask what can be finished?
+Gamify
+Time of Day
+Attend by proxy
+Rituals for start / end
+Parking lot
+What did you learn today?
+Run the board right to left (nearly done to not started)
+
+Retros
+-----------
+Talk about How, not What
+Fixed Cadence, booked into diaries up front
+Always happens
+Norm Kerth’s Prime Directive
+SCARF Model
+Satir Feedback Medal
+Create SMART goals (Specific, Measurable, Achievable, Realistic and Timely)
+Team Tourism
+
+Backlogs
+---------
+Top 20
+Epic | Story | Task
+Planning Poker
+Story Points / T-Shirt sizes / Count
+Buy A Feature
+Produce Vision
+Personas
+
+Analysis
+-----------
+Break up by business value 
+Find the gold bricks 
+Acceptance Criteria
+Test Cases
+
+Dev
+----------
+Test Driven Design (TDD) 
+Behaviour Driven Design (BDD) 
+Domain Driven Design (DDD) 
+Incremental design Refactoring
+10 Minute Build
+Trunk based development 
+Continuous Integration
+Single Codebase
+
+QA/Testing
+----------
+Acceptance testing 
+Test automation 
+Exploratory testing 
+Load testing
+Testing vs Checking
+
+Deployment
+-------------
+Automated Deployment/DevOps 
+Incremental deployment 
+Feature Toggles
+
+Review
+------------
+Sprint/Story Review 
+Actual realisation of Value
+
+Team
+------------
+T-shaped people
+Team contract
+Team continuity 
+Whole team
+Sit together 
+Retrospectives 
+Pairing
+Work In Process (WIP) Limits 
+Timeboxing
+No phones
+Team email account
+1-click deployment (servers / workstations / solution) 
+Core work hours
+Pomodoros
+Visualise WIP
+Daily Stand-Ups
+A/B Testing
+Burn down/up charts 
+Cumulative flow diagrams 
+Release planning 
+Definition of done 
+Velocity
+Slack
+Collective code ownership
+Informative workspace
+Real customer involvement
+Root cause analysis
+Negotiated scope contracting
+Prevent defects (Finding=waste, 90% caused by system) 
+Optimise for Cycle Time (concept => cash)
+No Broken Windows
+Distributed version control
+Sustainable pace
