@@ -115,3 +115,21 @@ Optimise for Cycle Time (concept => cash)
 No Broken Windows
 Distributed version control
 Sustainable pace
+
+
+XP
+----------
+Humanity: balancing individual and team needs
+Economics: built on the time value of money and the option value of systems and teams
+Mutual benefit: "the most important XP principle and the most difficult to adhere to"
+Self-similarity: make the small echo the large (and vice versa)
+Improvement
+Diversity
+Reflection
+Flow: from lean manufacturing, not from psychology – deliver a steady flow of value by engaging in all development activities simultaneously
+Opportunity: see problems as opportunities
+Redundancy
+Failure: "If you’re having trouble succeeding, fail."
+Quality
+Baby steps
+Accepted responsibility
