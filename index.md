@@ -17,7 +17,7 @@ If you're new to the Spine Model, start [here](/explanation/introduction).
 
 ## Most recent updates...
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:15 %}
     
     <!-- Add a dash if there is a tagline -->
     {% assign spacer = "-" %}

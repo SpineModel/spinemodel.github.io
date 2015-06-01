@@ -14,7 +14,7 @@ tags: [meta]
 
 In a work context, maintaining a shared perception of the way things currently are, and agreement on the way they should be is a Hard Problem.
 
-Through our team and organisational coaching work we (Danie Roux, Joanne Perold and Kevin Trethewey) have collaborated to refine a simple and powerful model for understanding, mapping and working with human work systems.
+Through our team and organisational coaching work we (Danie Roux, Joanne Perold and Kevin Trethewey) have collaborated to refine a simple and powerful model for understanding, mapping and working with [human work systems](/FAQ/WhatIsASystem).
 
 We think of a human work system as any context in which, in order to create value, humans must collaborate together in joint effort.
 

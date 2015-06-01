@@ -9,9 +9,5 @@ order: 7
 {% include JB/setup %}
 
 
-<p>
-<a href="/Explanation/todo">TODO - publish Frequently Asked Questions</a>
-</p>
-
 {% assign posts_collate = (site.posts | where: "category" , "FAQ") %}
 {% include JB/posts_collate %}
