@@ -2,7 +2,7 @@
 layout: post
 title: Core Working Hours
 category : Practice
-tagline: "let them work for you"
+tagline: ""
 author: Danie Roux, Kevin Trethewey
 tags: []
 ---
