@@ -19,8 +19,8 @@ One of the most important practices for teams that are applying the Principle of
 
 ## Assumptions
 
-## Sprint Retrospectives in Scrum
-[Scrum](/Prototype/Scrum) prescribes the use of Retrospectives, and describes them in the official Scrum Guide as follows:
+## Sprint Retrospectives in [SCRUM](/Prototype/SCRUM/)
+Scrum prescribes the use of Retrospectives, and describes them in the official Scrum Guide as follows:
 
 The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint.
 
