@@ -8,7 +8,7 @@ tags: [flow, SAFe]
 ---
 {% include JB/setup %}
 
-This is the second [Principle](/principles.html) of [SAFe](/prototype/SAFe/).
+This is the second [Principle](/principles.html) of [SAFe](/Archetype/SAFe/).
 
 [More info here.](http://scaledagileframework.com/apply-systems-thinking/)
 

@@ -8,6 +8,6 @@ tags: [flow, SAFe]
 ---
 {% include JB/setup %}
 
-This is the fifth [Principle](/principles.html) of [SAFe](/prototype/SAFe/).
+This is the fifth [Principle](/principles.html) of [SAFe](/Archetype/SAFe/).
 
 [More info here.](http://scaledagileframework.com/base-milestones-on-objective-evaluation-of-working-systems/)

@@ -8,7 +8,7 @@ tags: [flow, SAFe]
 ---
 {% include JB/setup %}
 
-This is the fourth [Principle](/principles.html) of [SAFe](/prototype/SAFe/).
+This is the fourth [Principle](/principles.html) of [SAFe](/Archetype/SAFe/).
 
 [More info here.](http://scaledagileframework.com/build-incrementally-with-fast-integrated-learning-cycles/)
 

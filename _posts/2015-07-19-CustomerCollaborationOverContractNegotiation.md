@@ -8,4 +8,4 @@ tags: [Agile, AgileManifesto]
 ---
 {% include JB/setup %}
 
-This is the thirs [Principle](/principles.html) of the [Agile Manifesto](/prototype/AgileManifesto/).
+This is the thirs [Principle](/principles.html) of the [Agile Manifesto](/Archetype/AgileManifesto/).

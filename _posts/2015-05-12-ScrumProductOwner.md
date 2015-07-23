@@ -8,7 +8,7 @@ tags: [scrum]
 ---
 {% include JB/setup %}
 
-The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, [SCRUM](/Prototype/SCRUM/) Teams, and individuals.
+The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, [SCRUM](/Archetype/SCRUM/) Teams, and individuals.
 
 The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes:
 

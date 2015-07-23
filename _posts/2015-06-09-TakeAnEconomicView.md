@@ -8,7 +8,7 @@ tags: [flow, SAFe]
 ---
 {% include JB/setup %}
 
-This is the first [Principle](/principles.html) of [SAFe](/prototype/SAFe/).
+This is the first [Principle](/principles.html) of [SAFe](/Archetype/SAFe/).
 
 [More info here.](http://scaledagileframework.com/take-an-economic-view/)
 
