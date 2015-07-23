@@ -100,39 +100,37 @@
 
 <div class="col-md-12" id="footer" style="background-color: #C1912C; height: 30px; margin-top: 0px; padding-top:0px">
     <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} <a href="http://spine.wiki" style="color:white">Spine Model</p>
     </div>
 </div>
 
-    <style>
+<style>
+    .menu_items > li > a {
+        font-size: 18px;
+        color: dimgray;
+        text-align: right;
+    }
     
-      
-.menu_items > li > a {
-    font-size: 18px;
-    color: dimgray;
-    text-align: right;
+    .menu_items > li a:hover {
+        color: #C1912C;
+        background-color: #f4f4f4;
     }
 
-.menu_items > li a:hover{
-    
-    
-    color: #C1912C;
-    background-color: #f4f4f4;
-}
-            </style>
-    
+</style>
+
 <script>
     $(window).ready(function() {
         adjustScreenLayout();
-        });
-    
-        $(window).resize(function() {
+    });
+
+    $(window).resize(function() {
         adjustScreenLayout();
-        });
-        
-      var adjustScreenLayout = function(){var windowHeight = $(window).height();
+    });
+
+    var adjustScreenLayout = function() {
+        var windowHeight = $(window).height();
         console.log(windowHeight);
-        $('#the_big_nav').css("height", windowHeight - 30 + 'px')}
+        $('#the_big_nav').css("height", windowHeight - 30 + 'px')
+    }
 
 </script>
 
