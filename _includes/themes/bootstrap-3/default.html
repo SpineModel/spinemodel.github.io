@@ -51,7 +51,7 @@
             <div id="the_big_nav" class="navbar" role="navigation" style="height: 100%; background-color: #f4f4f4;  padding-bottom: 0px; margin-bottom: 0px">
                 <div class="navbar-collapse collapse sidebar-navbar-collapse">
                     <div style="text-align: center; margin-top: 20px">
-                        <a href="{{ HOME_PATH }}"><img src="../../themes/bootstrap-3/images/SL.png"></a>
+                        <a href="{{ HOME_PATH }}"><img src="../../../assets/images/SL.png"></a>
                     </div>
                     <div style="text-align: center; color: #C1912C">
                         <a href="{{ HOME_PATH }}"><h3>{{ site.title }}</h2></a>
@@ -117,7 +117,7 @@
 
                 <div role="tabpanel" class="tab-pane fade in" id="Discussions">
                     <div class="col-md-12 row">
-                        <p>Disciussion</p>
+                        <p>{% include JB/comments %}</p>
                     </div>
                 </div>
             </div>
