@@ -81,26 +81,27 @@
 
     <div class="col-md-10">
 
+        <div>
+            <ul class="nav nav-tabs col-md-12 pull-left" role="tablist" style="margin-top:20px">
+                <li role="presentation" class="active">
+                    <a href="#Articles" role="tab" data-toggle="tab">Articles</a>
+                </li>
+                <li role="presentation">
+                    <a href="#Discussions" role="tab" data-toggle="tab">Discussions</a>
+                </li>
 
-        <ul class="nav nav-tabs col-md-12 pull-left" role="tablist" style="margin-top:20px">
-            <li role="presentation" class="active">
-                <a href="#Articles" role="tab" data-toggle="tab">Articles</a>
-            </li>
-            <li role="presentation">
-                <a href="#Discussions" role="tab" data-toggle="tab">Discussions</a>
-            </li>
+                <div style="margin-top:-10pxpx">
+                    <div class="col-md-2 pull-right">
+                        <button class="btn btn-default">Search</button>
+                    </div>
 
-            <div style="margin-top:-10pxpx">
-                <div class="col-md-2 pull-right">
-                    <button class="btn btn-default">Search</button>
+                    <div class="col-md-2 pull-right">
+                        <input class="form-control">
+                    </div>
                 </div>
 
-                <div class="col-md-2 pull-right">
-                    <input class="form-control">
-                </div>
-            </div>
-
-        </ul>
+            </ul>
+        </div>
 
         <div role="tabpanel" style="margin-top: 20px">
 
@@ -109,7 +110,7 @@
 
                 <div role="tabpanel" class="tab-pane fade in active" id="Articles">
                     <div class="col-md-12 row">
-                        <div class="container">
+                        <div class="container scrollableDiv" id="myDiv5">
                             {{content}}
                         </div>
                     </div>
@@ -154,6 +155,11 @@
             margin: 0;
             padding: 0;
         }
+        
+        .scrollableDiv {
+            width: auto;
+            overflow: auto;
+        }
 
     </style>
 
@@ -161,16 +167,24 @@
     <script>
         $(window).ready(function() {
             adjustScreenLayout();
+            adjustContentSize();
+
         });
 
         $(window).resize(function() {
             adjustScreenLayout();
+            adjustContentSize();
         });
 
         var adjustScreenLayout = function() {
             var windowHeight = $(window).height();
-            console.log(windowHeight);
             $('#the_big_nav').css("height", windowHeight + 'px')
+        }
+
+        var adjustContentSize = function() {
+            var wHeight = $(window).height();
+            $('#myDiv5').height(wHeight - 150);
+
         }
 
     </script>
