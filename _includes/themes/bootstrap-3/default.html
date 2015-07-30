@@ -55,18 +55,42 @@
                     </div>
                     <div style="text-align: center; color: #C1912C">
                         <a href="{{ HOME_PATH }}"><h3>{{ site.title }}</h2></a>
-                        <!--<h5 style="color: #cca258">A Sensemaking system for human
+                        <h5 style="color: #cca258">A Sensemaking system for human
                             work systems
-                        </h5>-->
+                        </h5>
                         <hr/>
                     </div>
                     <div class="col-md-11 row">
-                        <ul class="nav menu_items pull-right" style="color:grey;">
-                            <li class="row col-md-12">
-                                {% assign pages_list = site.pages %} {% assign group = 'navigation' %} {% include JB/pages_list %}
-                            </li>
+                
 
-                        </ul>
+<!-- Collect the nav links, forms, and other content for toggling -->
+  
+    <ul class="nav menu_items pull-right">
+
+    {% for item in site.data.navigation %}
+
+    <!-- check to see if the data file has a submenu, and if so display it -->
+    {% if item.subcategories != null %}
+    <li>
+    <a href="{{ site.url }}{{ item.url }}" >{{ item.title }}</i></a>
+    <ul class="nav nav-items">
+    {% for subcategory in item.subcategories %}
+    <li><a href="{{ site.url }}{{ subcategory.subhref }}" >{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    </li>
+    {% else %}
+
+    <!— display the top level navigation for items that don’t have a submenu -->
+    <li>
+    <a href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
+    
+
+
                     </div>
 
                     <div class="row">
@@ -91,13 +115,33 @@
                 </li>
 
                 <div style="margin-top:-10pxpx">
-                    <div class="col-md-2 pull-right">
-                        <button class="btn btn-default">Search</button>
-                    </div>
 
-                    <div class="col-md-2 pull-right">
-                        <input class="form-control">
-                    </div>
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+</script>
+
+
+
+
                 </div>
 
             </ul>
@@ -132,19 +176,34 @@
 
     <style>
         .menu_items > li > a {
-            font-size: 18px;
-            color: dimgray;
+            font-size: 14px;
+            color: #C1912C;
             text-align: right;
+            text-transform: uppercase;
+            
         }
         
-        .menu_items > li a:hover {
-            color: #C1912C;
-            background-color: #f4f4f4;
-        }
+       
         
         .menu_items > li a.active {
             color: #C1912C;
+            font-weight: bold;
         }
+
+
+         .nav-items > li > a {
+            font-size: 14px;
+            color: dimgray;
+            text-align: right;
+            text-transform: Capitalize;
+        }
+        
+        
+        .nav-items > li a.active {
+            color: #C1912C;
+        }
+
+
 
     </style>
 

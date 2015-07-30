@@ -1,0 +1,29 @@
+
+- title: "Spine Model"
+  href: "/"
+  subcategories:
+    - subtitle: "Needs"
+      subhref: "/needs.html/"
+    - subtitle: "Values"
+      subhref: "/values.html/"
+    - subtitle: "Principles"
+      subhref: "/principles.html/"
+    - subtitle: "Practices"
+      subhref: "/practices.html/"
+    - subtitle: "Tools"
+      subhref: "/tools.html/"
+
+- title: "Archetypes"
+  href: "/archetypes.html/"
+
+
+- title: "FAQs"
+  href: "/faq.html/"
+
+
+- title: "Tags"
+  href: "/tags.html/"
+
+
+- title: "Contributors"
+  href: "/contributors.html/"
