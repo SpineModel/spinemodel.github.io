@@ -3,23 +3,23 @@
   href: "/"
   subcategories:
     - subtitle: "Needs"
-      subhref: "/needs.html/"
+      subhref: "/needs.html"
     - subtitle: "Values"
-      subhref: "/values.html/"
+      subhref: "/values.html"
     - subtitle: "Principles"
-      subhref: "/principles.html/"
+      subhref: "/principles.html"
     - subtitle: "Practices"
-      subhref: "/practices.html/"
+      subhref: "/practices.html"
     - subtitle: "Tools"
-      subhref: "/tools.html/"
+      subhref: "/tools.html"
 
 - title: "Archetypes"
-  href: "/archetypes.html/"
+  href: "/archetypes.html"
 
 
 - title: "FAQs"
-  href: "/faq.html/"
+  href: "/faq.html"
 
 
 - title: "Tags"
-  href: "/tags.html/"
+  href: "/tags.html"
