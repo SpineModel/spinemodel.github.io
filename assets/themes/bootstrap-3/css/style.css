@@ -149,30 +149,33 @@ p {
 
   /* Large desktops and laptops */
 @media (min-width: 1200px) {
-.mobile-only {display: none}
+.mobile-only {display: none!important}
 
 }
 
 /* Landscape tablets and medium desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
-.mobile-only {display: none}
+.mobile-only {display: none!important}
 }
 
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
-.mobile-only {display: none}
+.desktop-only {display: none!important}
+.spine-img {display: none!important}
+
 }
 
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
-
+.desktop-only {display: none!important}
+.spine-img {display: none!important}
 }
 
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
 
-  .desktop-only {display: none}
-   .spine-img {display: none}
+  .desktop-only {display: none!important}
+   .spine-img {display: none!important}
 
 
 }
