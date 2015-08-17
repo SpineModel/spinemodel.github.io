@@ -8,7 +8,7 @@ tags: [meta]
 ---
 {% include JB/setup %}
 
-[System](/FAQ/WhatIsASystem) boundaries can be put in place by providing heuristic rules to govern a particular principle.
+[System](/faq/WhatIsASystem) boundaries can be put in place by providing heuristic rules to govern a particular principle.
 
 People tend to remember heuristic better when they come in threes. For example we often use these three for teams:
 

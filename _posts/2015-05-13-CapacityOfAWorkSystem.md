@@ -8,7 +8,7 @@ tags: [flow]
 ---
 {% include JB/setup %}
 
-Counterintuitively, the way for more work to be completed in a [work system](/FAQ/WhatIsASystem) is not for everyone to work harder. You first need to understand the capacity of the system to move the work from start to finished...
+Counterintuitively, the way for more work to be completed in a [work system](/faq/WhatIsASystem) is not for everyone to work harder. You first need to understand the capacity of the system to move the work from start to finished...
 
 <br>
 
