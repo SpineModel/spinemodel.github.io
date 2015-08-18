@@ -73,7 +73,7 @@ We make a clear distinction between Personal Values and System Values.
 
 Personal Values are embodied in you and in the way that you react to the external world. If you "check out", it is always because your personal values are not being honoured. For a system to be an attractor, it needs to actively attract at least a part of your value field. For other people to know how to honour these values, you have to spend the time helping them understand which behaviours attracts you and which repels you.
 
-There are also System Values. [Extreme Programming ](/Archetype/XP/), for example, says the five important values are: [Respect](/Value/Respect), [Courage](/Value/Courage), [Feedback](/Value/Feedback), [Simplicity](/Value/Simplicity) and [Communication](/Value/Communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
+There are also System Values. [Extreme Programming ](/archetype/XP/), for example, says the five important values are: [Respect](/Value/Respect), [Courage](/Value/Courage), [Feedback](/Value/Feedback), [Simplicity](/Value/Simplicity) and [Communication](/Value/Communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
 
 If a group get to the point where they create a combined attractor field and all their values have a space to be honoured, you will have a well functioning human work system. And ultimately that field will collapse and fail if this is where you stop.
 

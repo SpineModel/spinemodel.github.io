@@ -8,6 +8,6 @@ tags: [flow, SAFe]
 ---
 {% include JB/setup %}
 
-This is the ninth [Principle](/principles.html) of [SAFe](/Archetype/SAFe/).
+This is the ninth [Principle](/principles.html) of [SAFe](/archetype/SAFe/).
 
 [More info here.](http://scaledagileframework.com/decentralize-decision-making/)

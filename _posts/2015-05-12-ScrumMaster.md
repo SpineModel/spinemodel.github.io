@@ -8,7 +8,7 @@ tags: [scrum]
 ---
 {% include JB/setup %}
 
-The Scrum Master is responsible for ensuring [SCRUM](/Archetype/SCRUM/) is understood and enacted. Scrum Masters do this by ensuring that the Scrum Team adheres to Scrum theory, practices, and rules.
+The Scrum Master is responsible for ensuring [SCRUM](/archetype/SCRUM/) is understood and enacted. Scrum Masters do this by ensuring that the Scrum Team adheres to Scrum theory, practices, and rules.
 
 The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 
