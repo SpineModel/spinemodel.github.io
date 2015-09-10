@@ -1,0 +1,39 @@
+---
+layout: page
+title : Individuals
+header : xcvbn
+group : navigation
+order : 1
+---
+{% include JB/setup %}
+
+<h3>Interpretation of Spine Levels</h3>
+
+<h4>Needs</h4>
+<p>...</p>
+<h4>Values</h4>
+<p>...</p>
+<h4>Principles</h4>
+<p>...</p>
+<h4>Practices</h4>
+<p>...</p>
+<h4>Tools</h4>
+<p>...</p>
+
+<h3>Most recent updates...</h3>
+
+{% assign posts_collate = (site.posts | where: "category" , "Individual") %}
+
+<ul class="posts">
+  {% for post in posts_collate limit:5 %}
+    
+    <!-- Add a dash if there is a tagline -->
+    {% assign spacer = "-" %}
+    {% if post.tagline == "" %}
+        {% assign spacer = "" %}
+    {% endif %}
+    
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} {{ spacer }} <i>{{post.tagline}}</i></a> ({{post.implementation}} {{post.category}} by {{post.author}})</li>
+  
+  {% endfor %}
+</ul>

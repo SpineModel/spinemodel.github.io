@@ -1,23 +1,28 @@
 ---
 layout: page
-title: Spine Model
-tagline: a sensemaking framework for human work systems
+title: Welcome to Spine Wiki
+tagline: a free Spine Model encyclopedia that anyone can edit
 ---
 {% include JB/setup %}
 
-## What need does the model satisfy?
-The invisible structure of a human organisational system can be either implicit or explicit. By making the structure explicit, starting at the reason the system exists in the first place, [Needs](/Needs.html), your chances of having a well functioning system are greatly enhanced. This happens through enabling people to have more effective conversations, and able to make better decisions.
+## New to the Spine Model?
+If you're not familiar with the Spine Model, we recommend you [learn the basic ideas behind the model first](/explanation/introduction/), before diving into the catalog.
 
-Based on a chain of levels, the model can be thought of as vertebrae of a spine. You always measure against the highest level. The higher levels should set the frame for what is acceptable lower down (e.g. does this [Practice](/Practices.html) *satisfy* our choices at higher levels?).
+## What is the purpose of this wiki?
+The Spine Model can be applied to any human system and the individuals in them.
 
-By collaboratively mapping a [System](/FAQ/WhatIsASystem), you create an opportunity for useful conversations to occur at the appropriate levels. Actions can be chosen that are ecologically appropriate for the specific context.
+This wiki catalogs each level of the model and its various implementations in a way that creates an encyclopedia that anyone can draw from and [contribute to](https://github.com/SpineModel/spinemodel.github.io).
 
-## First time here?
-If you're new to the Spine Model, you could learn more by reading [this explanation](/explanation/introduction), or listen to [this podcast interview](http://driven2distraction.co.za/distraction/2015/07/27/D2D020.html).
+## Using the Spine Model 
+
+* Have effective conversations
+* Provide enabling constraints
+* Map and compare work systems
+* Have somewhere to start
 
 ## Most recent updates...
 <ul class="posts">
-  {% for post in site.posts limit:15 %}
+  {% for post in site.posts limit:8 %}
     
     <!-- Add a dash if there is a tagline -->
     {% assign spacer = "-" %}

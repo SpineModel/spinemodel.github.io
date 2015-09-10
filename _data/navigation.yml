@@ -2,6 +2,18 @@
 - title: "Spine Model"
   href: "/"
   subcategories:
+    - subtitle: "What is it?"
+      subhref: "/explanation/introduction/"
+    - subtitle: "Archetypes"
+      subhref: "/archetypes.html"
+    - subtitle: "FAQs"
+      subhref: "/faq.html"
+    - subtitle: "Tags"
+      subhref: "/tags.html"
+
+- title: "Catalog"
+  href: "/"
+  subcategories:
     - subtitle: "Needs"
       subhref: "/needs.html"
     - subtitle: "Values"
@@ -13,13 +25,3 @@
     - subtitle: "Tools"
       subhref: "/tools.html"
 
-- title: "Archetypes"
-  href: "/archetypes.html"
-
-
-- title: "FAQs"
-  href: "/faq.html"
-
-
-- title: "Tags"
-  href: "/tags.html"
