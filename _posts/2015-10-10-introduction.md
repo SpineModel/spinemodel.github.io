@@ -10,7 +10,8 @@ tags: [meta]
 
 # Introduction
 
-*For a more concise description of the model, [read this](/explanation/concise/).*
+*For a more concise description of the model, [read this](/explanation/concise/) or listen to [this podcast interview](http://driven2distraction.co.za/distraction/2015/07/27/D2D020.html).*
+
 
 In a work context, maintaining a shared perception of the way things currently are, and agreement on the way they should be is a Hard Problem.
 
