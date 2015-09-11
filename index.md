@@ -15,10 +15,10 @@ This wiki catalogs each level of the model and its various implementations in a 
 
 ## Using the Spine Model 
 
-* Have effective conversations
-* Provide enabling constraints
-* Map and compare work systems
-* Have somewhere to start
+* [Have effective conversations](/explanation/effectiveconversations)
+* [Provide enabling constraints](/explanation/enablingconstraints)
+* [Map and compare work systems](/explanation/mapworksystems)
+* [Have somewhere to start](/explanation/somewheretostart)
 
 ## Most recent updates...
 <ul class="posts">
@@ -30,7 +30,7 @@ This wiki catalogs each level of the model and its various implementations in a 
         {% assign spacer = "" %}
     {% endif %}
     
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} {{ spacer }} <i>{{post.tagline}}</i></a> ({{post.category}} by {{post.author}})</li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> ({{post.category}} by {{post.author}})</li>
   
   {% endfor %}
 </ul>
