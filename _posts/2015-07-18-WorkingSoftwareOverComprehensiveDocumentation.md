@@ -2,6 +2,7 @@
 layout: post
 title: Working software over comprehensive documentation
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [Agile, AgileManifesto]

@@ -5,10 +5,4 @@ Done Bell
 Pairing Chart
 Burn down/up Charts
 Cumulative Flow Diagram
-Next Retro Topics List
-Current Smart Goals List
-Cognitive Load Tracker
-Improv 
-PlansForRetrospectives.com
-TastyCupcakes.org
-RetrospectiveWiki.org
+

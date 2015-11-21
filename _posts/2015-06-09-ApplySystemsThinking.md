@@ -2,6 +2,7 @@
 layout: post
 title: Apply Systems Thinking
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [flow, SAFe]

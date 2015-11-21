@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Using Spine to coach non-software teams
-category : Explanation
-tagline: "<br>Using the Spine Model"
+title: Can this model be used to coach non-software teams?
+category : FAQ
+tagline: ""
 author: Kevin Trethewey
 tags: [meta]
 ---

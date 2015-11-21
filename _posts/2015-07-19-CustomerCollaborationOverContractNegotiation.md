@@ -2,6 +2,7 @@
 layout: post
 title: Customer collaboration over contract negotiation
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [Agile, AgileManifesto]

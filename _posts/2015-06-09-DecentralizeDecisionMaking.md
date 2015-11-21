@@ -2,6 +2,7 @@
 layout: post
 title: Decentralize decision-making
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [flow, SAFe]

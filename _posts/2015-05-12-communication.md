@@ -2,6 +2,7 @@
 layout: post
 title: Communication
 category : Value
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: []

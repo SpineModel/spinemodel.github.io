@@ -2,6 +2,7 @@
 layout: post
 title: Individuals and interactions over processes and tools
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [Agile, AgileManifesto]

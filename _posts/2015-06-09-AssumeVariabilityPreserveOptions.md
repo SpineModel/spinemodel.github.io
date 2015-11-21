@@ -2,6 +2,7 @@
 layout: post
 title: Assume Variability; Preserve Options
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [flow, SAFe]

@@ -9,7 +9,7 @@ tags: [Scrum]
 {% include JB/setup %}
 
 ## What is it?  
-One of the most important practices for teams that are applying the Principle of "Inspect and Adapt" TODO: Add link to practice
+One of the most important practices for teams that are applying the Principle of "Inspect and Adapt".
 
 ## Why use it?
 

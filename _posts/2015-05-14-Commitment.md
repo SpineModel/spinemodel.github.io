@@ -2,6 +2,7 @@
 layout: post
 title: Commitment
 category : Value
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: []

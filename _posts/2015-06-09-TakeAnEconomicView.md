@@ -2,6 +2,7 @@
 layout: post
 title: Take an Economic View
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [flow, SAFe]

@@ -2,6 +2,7 @@
 layout: post
 title: Build Incrementally With Fast Integrated Learning Cycles
 category : Principle
+subpage: 1
 tagline: ""
 author: Kevin Trethewey
 tags: [flow, SAFe]

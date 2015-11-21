@@ -9,7 +9,7 @@ tagline: a free Spine Model encyclopedia that anyone can edit
 If you're not familiar with the Spine Model, we recommend you [learn the basic ideas behind the model first](/explanation/introduction/), before diving into the catalog.
 
 ## What is the purpose of this wiki?
-The Spine Model can be applied to any human system and the individuals in them.
+The Spine Model can be applied to any human system and the individuals in it.
 
 This wiki catalogs each level of the model and its various implementations in a way that creates an encyclopedia that anyone can draw from and [contribute to](https://github.com/SpineModel/spinemodel.github.io).
 
@@ -34,8 +34,3 @@ This wiki catalogs each level of the model and its various implementations in a 
   
   {% endfor %}
 </ul>
-
-
-
-
-
