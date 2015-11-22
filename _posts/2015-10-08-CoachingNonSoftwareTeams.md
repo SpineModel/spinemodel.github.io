@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can this model be used to coach non-software teams?
+title: Can Spine be used to coach non-software teams?
 category : FAQ
 tagline: ""
 author: Kevin Trethewey
