@@ -4,7 +4,7 @@ title: Principles of Extreme Programming
 category : Principle
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, XP]
+tags: [XP]
 ---
 {% include JB/setup %}
 

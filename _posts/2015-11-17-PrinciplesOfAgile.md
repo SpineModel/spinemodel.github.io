@@ -4,7 +4,7 @@ title: Principles of Agile
 category : Principle
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, Agile]
+tags: [Agile]
 ---
 {% include JB/setup %}
 

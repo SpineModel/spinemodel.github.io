@@ -4,7 +4,7 @@ title: Values of Extreme Programming
 category : Value
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, XP]
+tags: [XP]
 ---
 {% include JB/setup %}
 

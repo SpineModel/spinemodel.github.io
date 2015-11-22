@@ -4,7 +4,7 @@ title: Values of Scrum
 category : Value
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, Scrum]
+tags: [Scrum]
 ---
 {% include JB/setup %}
 

@@ -4,7 +4,7 @@ title: Values of SAFe
 category : Value
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, Scrum]
+tags: [SAFe]
 ---
 {% include JB/setup %}
 

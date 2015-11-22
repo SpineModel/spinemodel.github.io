@@ -4,7 +4,7 @@ title: Principles of SAFe
 category : Principle
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, SAFe]
+tags: [SAFe]
 ---
 {% include JB/setup %}
 
