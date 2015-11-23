@@ -10,7 +10,7 @@ tags: [meta]
 
 It is useful to look at an aspect of the [Dreyfus Model of Skills Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) to answer this question. An important point to make up-front is that this is a per-skill model, not a per-person model:
 
-![Dreyfus Model of Skills Acquisition](/assets/images/dreyfus.png "Dreyfus Model")
+<img alt="Dreyfus Model" src="/assets/images/dreyfus.png" style="max-width: 100%;" />
 
 As you can see from the model, as a person progresses from Novice to Expert for a given skill, the basis for taking action shifts from needing rules and routines to reading the context and responding intuitively.
 
