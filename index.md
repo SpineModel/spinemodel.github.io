@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to Spine Wiki
-tagline: a free Spine Model catalog that anyone can edit
+tagline: a free Spine Model catalog to which anyone can contribute
 ---
 {% include JB/setup %}
 
@@ -20,7 +20,7 @@ This wiki catalogs each level of the model and its various implementations in a 
 * [Map and compare work systems](/explanation/mapworksystems)
 * [Have somewhere to start](/explanation/somewheretostart)
 
-## Most recent updates...
+## Most recent contributions...
 <ul class="posts">
   {% for post in site.posts limit:8 %}
     
