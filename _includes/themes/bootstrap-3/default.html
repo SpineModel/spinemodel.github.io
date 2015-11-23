@@ -61,8 +61,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          
-          <a href="{{ HOME_PATH }}"><img src="../../../assets/images/SL.png" style="width:50px; height:50px"></a>
+          <a href="{{ HOME_PATH }}"><img src="../../../assets/images/SL.png" style="max-width: 100%;"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -110,8 +109,7 @@
                     </div >
                     <div class="logo-subtext">
                         <a href="{{ HOME_PATH }}"><h3>{{ site.title }}</h2></a>
-                        <h5>A Sensemaking model for human
-                            work systems
+                        <h5>a free Spine Model catalog that anyone can edit
                         </h5>
                         <hr/>
                     </div>
@@ -181,11 +179,8 @@
             <div class="tab-content">
                                
                 <div role="tabpanel" class="tab-pane fade in active" id="Articles">
-                    <div class="col-md-12 row">
-<span class = "spine-img"><img src="/assets/images/spine.png" width="120" /> </span>
-                        
+                    <div class="col-md-12 row">                        
                             {{content}}
-                       
                     </div>
                 </div>
 
@@ -198,9 +193,6 @@
             </div>
         </div>
 </div>
-
-
-    <span class="mobile-only">  <img style="float: right; margin: 0px 0px 15px 15px;" src="/assets/images/spine.png" width="110" /> </span>
 
       <div class="container mobile-only">
         {{ content }}
