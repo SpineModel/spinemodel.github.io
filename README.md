@@ -2,7 +2,7 @@
 
 This is a Jekyll/Bootstrap backed blog with a Disqus comment engine. It is published to:
 
-http://spine.wiki
+http://spinemodel.info
 
 
 ## Contributing
