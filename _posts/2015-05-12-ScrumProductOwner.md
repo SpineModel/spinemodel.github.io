@@ -4,7 +4,7 @@ title: Scrum Product Owner
 category : Practice
 tagline: ""
 author: Kevin Trethewey
-tags: [scrum]
+tags: [Scrum, Practice]
 ---
 {% include JB/setup %}
 

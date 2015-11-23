@@ -5,7 +5,7 @@ category : Value
 subpage: 1
 tagline: ""
 author: Kevin Trethewey
-tags: [SAFe]
+tags: [SAFe, Value]
 ---
 {% include JB/setup %}
 

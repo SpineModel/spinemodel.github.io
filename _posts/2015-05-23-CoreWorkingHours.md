@@ -4,7 +4,7 @@ title: Core Working Hours
 category : Practice
 tagline: ""
 author: Danie Roux, Kevin Trethewey
-tags: []
+tags: [Practice]
 ---
 {% include JB/setup %}
 

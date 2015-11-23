@@ -4,7 +4,7 @@ title: Practices of Extreme Programming
 category : Practice
 tagline: ""
 author: Kevin Trethewey
-tags: [XP]
+tags: [XP, Practice]
 ---
 {% include JB/setup %}
 

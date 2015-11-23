@@ -4,7 +4,7 @@ title: Map and compare work systems
 category : Explanation
 tagline: "<br>Using the Spine Model"
 author: Kevin Trethewey
-tags: [meta]
+tags: [meta, Explanation]
 ---
 {% include JB/setup %}
 

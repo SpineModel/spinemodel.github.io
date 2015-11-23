@@ -4,7 +4,7 @@ title: Provide enabling constraints
 category : Explanation
 tagline: "<br>Using the Spine Model"
 author: Kevin Trethewey
-tags: [meta]
+tags: [meta, Explanation]
 ---
 {% include JB/setup %}
 

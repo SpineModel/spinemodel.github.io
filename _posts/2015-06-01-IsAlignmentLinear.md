@@ -4,7 +4,7 @@ title: Is it recommended to get complete aligment on one level before moving to 
 category : FAQ
 tagline: ""
 author: Kevin Trethewey
-tags: []
+tags: [FAQ]
 ---
 {% include JB/setup %}
 

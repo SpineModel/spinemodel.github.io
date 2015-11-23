@@ -5,7 +5,7 @@ category : Principle
 subpage: 1
 tagline: ""
 author: Kevin Trethewey
-tags: [Agile, AgileManifesto]
+tags: [Agile, AgileManifesto, Principle]
 ---
 {% include JB/setup %}
 

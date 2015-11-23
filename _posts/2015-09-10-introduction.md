@@ -4,7 +4,7 @@ title: The Spine Model Story
 category : Explanation
 tagline: "an explanation of the model"
 author: Kevin Trethewey, Danie Roux
-tags: [meta]
+tags: [meta, Explanation]
 ---
 {% include JB/setup %}
 

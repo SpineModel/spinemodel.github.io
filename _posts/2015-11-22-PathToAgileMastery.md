@@ -4,7 +4,7 @@ title: Can Spine be used to grow a deeper understanding of the Agile approach?
 category : FAQ
 tagline: ""
 author: Kevin Trethewey
-tags: [meta]
+tags: [meta, FAQ]
 ---
 {% include JB/setup %}
 

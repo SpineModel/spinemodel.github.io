@@ -5,7 +5,7 @@ category : Practice
 subpage: 1
 tagline: ""
 author: Kevin Trethewey
-tags: [XP]
+tags: [XP, Practice]
 ---
 {% include JB/setup %}
 

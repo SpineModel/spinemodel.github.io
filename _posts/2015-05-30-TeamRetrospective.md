@@ -4,7 +4,7 @@ title: Team Retrospective
 category : Practice
 tagline: ""
 author: Kevin Trethewey
-tags: [Scrum]
+tags: [Scrum, Practice]
 ---
 {% include JB/setup %}
 

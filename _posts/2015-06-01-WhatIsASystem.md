@@ -4,7 +4,7 @@ title: What is a System?
 category : FAQ
 tagline: ""
 author: Kevin Trethewey
-tags: []
+tags: [FAQ]
 ---
 {% include JB/setup %}
 

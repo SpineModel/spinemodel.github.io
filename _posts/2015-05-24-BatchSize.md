@@ -4,7 +4,7 @@ title: Batch Size
 category : Principle
 tagline: ""
 author: Kevin Trethewey
-tags: [flow]
+tags: [flow, Principle]
 ---
 {% include JB/setup %}
 

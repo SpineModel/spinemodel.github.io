@@ -4,7 +4,7 @@ title: Agile Software Development, Manifesto for
 category : Archetype
 tagline: ""
 author: Kevin Trethewey
-tags: [Agile, AgileManifesto]
+tags: [Agile, AgileManifesto, Archetype]
 ---
 {% include JB/setup %}
 

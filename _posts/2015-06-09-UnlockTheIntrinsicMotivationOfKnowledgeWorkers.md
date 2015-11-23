@@ -5,7 +5,7 @@ category : Principle
 subpage: 1
 tagline: ""
 author: Kevin Trethewey
-tags: [flow, SAFe]
+tags: [flow, SAFe, Principle]
 ---
 {% include JB/setup %}
 

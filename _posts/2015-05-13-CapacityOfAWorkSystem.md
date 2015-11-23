@@ -4,7 +4,7 @@ title: Capacity of a work system
 category : Principle
 tagline: ""
 author: Kevin Trethewey
-tags: [flow]
+tags: [flow, Principle]
 ---
 {% include JB/setup %}
 
