@@ -7,9 +7,6 @@ order : 2
 ---
 {% include JB/setup %}
 
-<p>
 Firstly, at a system level, if you have these things you are most likely to meet the Need. Secondly, at a personal level, these are the things that will keep me in the system. 
-</p>
-<p>
-Answers the question: <i>We optimise the system for ______...</i>
-</p>
+
+Answers the question: *We optimise the system for ______...* 

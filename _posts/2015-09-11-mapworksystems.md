@@ -4,10 +4,14 @@ title: Map and compare work systems
 category : Explanation
 tagline: "<br>Using the Spine Model"
 author: Kevin Trethewey
-tags: [meta, Explanation]
+tags: [Explanation]
 ---
 {% include JB/setup %}
 
-## 1. Extract and catalogue the Spine of different teams
+## Steps
 
-## 2. Publish them across teams
+##### 1. Extract and catalogue the Spine of different teams
+
+##### 2. Publish them across teams
+
+## Related Case Studies 

@@ -7,10 +7,6 @@ order : 4
 ---
 {% include JB/setup %}
 
-<p>
 These are the concrete activities we use to get the work done. 
-</p>
 
-<p>
-Answers the question: <i>We do _____ to create or increase value...</i>
-</p>
+Answers the question: *We do _____ to create or increase value...*

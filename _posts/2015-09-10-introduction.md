@@ -4,7 +4,7 @@ title: The Spine Model Story
 category : Explanation
 tagline: "an explanation of the model"
 author: Kevin Trethewey, Danie Roux
-tags: [meta, Explanation]
+tags: [Explanation]
 ---
 {% include JB/setup %}
 
@@ -68,7 +68,7 @@ Values answer the question: "We *optimise* for _____".
 
 Any system exist as a sort of magnetic field that attracts the things it wants and repels the things it doesn't want. The labels that name the parts of that magnetic field are what we call *Values*.
 
-You need to know what the important Values are in your system. Values help you know what to optimise for. The better you can describe this magnetic field, the better you can filter which Principles are worth focussing on.
+You need to know what the important Values are in your system. Values help you know what to optimise for. The better you can describe this magnetic field, the better you can filter which Principles are worth focusing on.
 
 We make a clear distinction between Personal Values and System Values.
 
@@ -106,7 +106,7 @@ We refer to this model as the **Spine Model**:
 
 The model is a synthesis of several people's work, as well as our own. You see the Values to Principles to Practices part in XP. The Needs to Values part has roots in NLP. Starting at needs is NVC based.
 
-We see a lot of crooked spines in organisations. Quasimodo-like creations that are doomed to failure. Crooked spines are caused by people only focussing on part of the Spine. Stay with Practices and Tools and implicit and misaligned assumptions are generated about why we are here and where we are going. Stay with Needs and Values and pain is felt when it comes to where, when and how we are going to accomplish anything.
+We see a lot of crooked spines in organisations. Quasimodo-like creations that are doomed to failure. Crooked spines are caused by people only focusing on part of the Spine. Stay with Practices and Tools and implicit and misaligned assumptions are generated about why we are here and where we are going. Stay with Needs and Values and pain is felt when it comes to where, when and how we are going to accomplish anything.
 
 If you want a straight spine, you have to start at the top, at *Needs* and work down, iteratively. This will keep your spine straight.
 

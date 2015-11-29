@@ -21,8 +21,11 @@
   subcategories:  
     - subtitle: "Spine Wiki"
       subhref: "http://spine.wiki"
+    - subtitle: "Case Studies"
+      subhref: "/casestudies.html"
     - subtitle: "FAQs"
       subhref: "/faq.html"
     - subtitle: "Tags"
       subhref: "/tags.html"
-
+    - subtitle: "About"
+      subhref: "/about.html"

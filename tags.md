@@ -12,7 +12,6 @@ order : 100
   {% include JB/tags_list %}
 </ul>
 
-
 {% for tag in site.tags %} 
   <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
   <ul>

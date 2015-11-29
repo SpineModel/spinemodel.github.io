@@ -7,9 +7,6 @@ order : 5
 ---
 {% include JB/setup %}
 
-<p>
 These are the automations and mechanisations that make the work easier to do. 
-</p>
-<p>
-Answers the question: <i>We use _____ to get the work done more efficiently...</i>
-</p>
+
+Answers the question: *We use _____ to get the work done more efficiently...* 
