@@ -112,12 +112,12 @@ If you want a straight spine, you have to start at the top, at *Needs* and work 
 
 Many useless arguments also stay at the lower part of the spine. Arguing about choosing your favourite Tool above another is usually a waste of energy. During these arguments it is best to "go up the spine". Ask what the *Need* is that the *Tool* is trying to satisfy, then work your way down again.
 
-# Unanswered questions
+# Interesting questions
 
 This model surfaces interesting questions:
 
-* How do you actually apply this?
-  * What is a system? How do you define the system boundaries?
+* [How do you actually apply this?](/casestudies.html)
+  * [What is a system?](/faq/whatisasystem) How do you define the system boundaries?
   * Who decides what is important at each level of the Spine? Who should?
   * How do you get clarity on what the Needs are?
   * How do you elicit Values from people? How do you contract them in a team?
