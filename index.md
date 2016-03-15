@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Spine Model
-tagline: A sensemaking framework for human work systems
+tagline: The sensemaking framework for human work systems
 ---
 {% include JB/setup %}
 
@@ -9,6 +9,9 @@ tagline: A sensemaking framework for human work systems
 
 ## New to the Spine Model?
 If you're not familiar with the Spine Model, [the introduction](/explanation/introduction/) is a good place to start.
+
+## Looking for the Spine Catalog?
+This site explains the model in detail. If you are looking for the catalog of different Needs, Values, Principles and Practices, go to the <a href="http://spine.wiki">wiki</a>.
 
 ## Using the Spine Model 
 
@@ -19,7 +22,3 @@ The Spine Model has many uses, a few common ones are...
 * [Provide enabling constraints](/explanation/enablingconstraints)
 * [Map and compare work systems](/explanation/mapworksystems)
 * [Have somewhere to start](/explanation/somewheretostart)
-
-<p><br><br><br><br>
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Spine Model</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
-</p>

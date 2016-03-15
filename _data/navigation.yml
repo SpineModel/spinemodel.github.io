@@ -27,5 +27,5 @@
       subhref: "/faq.html"
     - subtitle: "Tags"
       subhref: "/tags.html"
-    - subtitle: "About"
-      subhref: "/about.html"
+    - subtitle: "Meta"
+      subhref: "/meta.html"

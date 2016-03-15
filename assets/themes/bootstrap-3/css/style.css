@@ -1,23 +1,8 @@
-/* Custom container */
+/* http://www.color-hex.com/color-palette/1160 */
 
-/* Replaced with normal container and standard footer */
-/*.container-narrow {
-  margin: 0 auto;
-  max-width: 700px; }
-
-.container-narrow > hr {
-  margin: 30px 0; }
-*/
-
-/* Replaced with standard BS3 Navbar */
-/*.navbar .nav {
-  float: right; }*/
-
-/* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #c7952a;
+  color:  #433e90;
 }
-
 
 .top-buffer { margin-top:20px; }
 
@@ -26,11 +11,12 @@ body {
 }
 
 #footer {
-  background-color: #C1912C;
+  background-color: #326ada;
+  color: #d4d8d4;
 }
 
 #footer a {
-  color: #aeaeae
+  color: #d4d8d4;
 }
 
 .spine-img {
@@ -45,7 +31,7 @@ body {
 
 .logo-subtext {
  text-align: center;
- color: #9e8644
+ color: #326ada 
 }
 
 /* posts index */
@@ -60,7 +46,7 @@ p {
 
   .menu_items > li > a {
             font-size: 14px;
-            color: #C1912C;
+            color: #326ada;
             text-align: right;
             text-transform: uppercase;
             
@@ -69,7 +55,7 @@ p {
        
         
         .menu_items > li a.active {
-            color: #C1912C;
+            color: #326ada;
             font-weight: bold;
         }
 
@@ -83,7 +69,7 @@ p {
         
         
         .nav-items > li a.active {
-            color: #C1912C;
+            color: #433e90;
         }
 
         .light-grey {
