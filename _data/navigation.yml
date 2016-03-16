@@ -20,7 +20,9 @@
   href: "/"
   subcategories:  
     - subtitle: "Spine Wiki"
-      subhref: "http://spine.wiki"
+      subhref: "/wiki.html"
+    - subtitle: "News"
+      subhref: "/news.html"
     - subtitle: "Case Studies"
       subhref: "/casestudies.html"
     - subtitle: "FAQs"

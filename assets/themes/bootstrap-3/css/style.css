@@ -49,10 +49,10 @@ p {
             color: #326ada;
             text-align: right;
             text-transform: uppercase;
-            
+            padding-top: 10px;
+            padding-bottom: 0px;        
         }
         
-       
         
         .menu_items > li a.active {
             color: #326ada;
@@ -65,6 +65,7 @@ p {
             color: dimgray;
             text-align: right;
             text-transform: Capitalize;
+            padding-bottom: 1px;
         }
         
         
@@ -73,7 +74,6 @@ p {
         }
 
         .light-grey {
-
             background-color: #f4f4f4;
         }
 
@@ -131,7 +131,6 @@ p {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
-
 
   /* Large desktops and laptops */
 @media (min-width: 1200px) {
