@@ -11,7 +11,7 @@ tagline: The sensemaking framework for human work systems
 If you're not familiar with the Spine Model, [the introduction](/explanation/introduction/) is a good place to start.
 
 ## Looking for the Spine Catalog?
-This site explains the model in detail. If you are looking for the catalog of different Needs, Values, Principles and Practices, go to the <a href="http://spine.wiki">wiki</a>.
+This site explains the model in detail. If you are looking for the catalog of different Needs, Values, Principles and Practices, head to the <a href="http://spine.wiki">wiki</a>.
 
 ## Using the Spine Model 
 
