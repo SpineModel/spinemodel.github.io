@@ -2,7 +2,6 @@
 layout: post
 title: Can Spine be used to coach non-software teams?
 category : FAQ
-tagline: ""
 author: Kevin Trethewey
 tags: [FAQ]
 ---

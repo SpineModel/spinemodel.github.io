@@ -2,7 +2,6 @@
 layout: post
 title: Is it recommended to get complete alignment on one level before moving to the next?
 category : FAQ
-tagline: ""
 author: Kevin Trethewey
 tags: [FAQ]
 ---

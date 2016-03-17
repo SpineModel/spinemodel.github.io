@@ -1,8 +1,7 @@
 ---
 layout: post
-title: What is a System?
+title: In the context of Spine Model, what is a "System"?
 category : FAQ
-tagline: ""
 author: Kevin Trethewey
 tags: [FAQ]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: Why is the Spine Model called the Spine Model?
 category : FAQ
-tagline: ""
 author: Kevin Trethewey
 tags: [FAQ]
 ---
@@ -17,5 +16,3 @@ We see a lot of crooked spines in organisations. Quasimodo-like creations that a
 If you want a straight spine, you have to start at the top, at *Needs* and work down, iteratively. This will keep your spine straight.
 
 There are other ways to extend the spine metaphor, but this was the central thinking when we decided on the name (the model preceded the name).
-
-*Trivia: The logo of the spine model is a cross-section of a spinal column.*
