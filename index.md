@@ -15,10 +15,10 @@ This site explains the model in detail. If you are looking for the catalog of di
 
 ## Using the Spine Model 
 
-The Spine Model has many uses, a few common ones are...
+The Spine Model has many uses, three common ones are...
 
-* [Have effective conversations](/explanation/effectiveconversations)
-* [Keep everyone focused on what is important](/explanation/keepfocusedonneed)
-* [Provide enabling constraints](/explanation/enablingconstraints)
-* [Map and compare work systems](/explanation/mapworksystems)
-* [Have somewhere to start](/explanation/somewheretostart)
+1. [Have effective conversations](/usage/effectiveconversations)
+1. [Guide your path to mastery](/usage/guideyourpathtomasteringskills)
+1. [Map and compare work systems](/usage/mapworksystems)
+
+([more uses](/Uses.html))

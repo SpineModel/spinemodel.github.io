@@ -65,6 +65,7 @@ p {
             color: dimgray;
             text-align: right;
             text-transform: Capitalize;
+            padding-top: 5px;
             padding-bottom: 1px;
         }
         

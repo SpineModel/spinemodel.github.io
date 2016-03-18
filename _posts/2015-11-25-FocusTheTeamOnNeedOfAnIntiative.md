@@ -2,7 +2,6 @@
 layout: post
 title: Focusing a team on the purpose of a pilot initiative
 category : CaseStudy
-tagline: ""
 author: Kevin Trethewey
 tags: [Case Study]
 ---
@@ -10,8 +9,7 @@ tags: [Case Study]
 
 ## Context
 
-I ()
-
+There was a pilot initiative, introduced by a senior company executive. It very quickly gridlocked as a fragmented discussion around tools. We needed to pull people out of the detail and get them to agree on the purpose of the pilot. We got agreement on the [Need](/Needs.html) and then went back down their Spine towards [Tools](/Tools.html).
 
 ## Pilot Spine
 
@@ -39,5 +37,7 @@ I ()
 
 ## Outcome
 
-The team is now focused on the Need and is experimenting with different ways they can tweak the practices and tooling to make them more valuable to the team, whilst still satisfying the higher level need of management.
+The team is now focused on the Needs and is experimenting with different ways they can tweak the practices and tooling to make them more valuable to the team, whilst still satisfying the higher level need of management.
+
+They have this Spine as an artifact that is brought out at times where there is disagreement of confusion about the correct way forward.
 

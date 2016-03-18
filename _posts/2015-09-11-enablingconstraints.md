@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Provide enabling constraints
-category : Explanation
-tagline: "<br>Using the Spine Model"
+category : Usage
+tagline: "Using the Spine Model"
 author: Kevin Trethewey
-tags: [Explanation]
+tags: [Usage]
 ---
 {% include JB/setup %}
 

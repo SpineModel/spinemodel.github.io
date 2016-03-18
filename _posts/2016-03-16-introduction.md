@@ -11,7 +11,7 @@ tags: [Explanation]
 # How to learn the model
 The Spine Model is simple but it is not simplistic. As with any skill, to really understand, internalise and apply it effectively takes time, practice, and some reliable feedback loops. 
 
-For those brand new to the model, [we](/meta.html) find that it is easier to explain it conversationally rather than through text. We recommend you listen to one of the [podcasts](/news.html) we have recorded to get an introduction to the model.
+For those brand new to the model, [we](/about.html) find that it is easier to explain it conversationally rather than through text. We recommend you listen to one of the [podcasts](/news.html) we have recorded to get an introduction to the model.
 
 If you'd prefer to read about it, we've done our best to explain the model below, and for the TLDRs, [a stripped down version is here](/explanation/concise/).
 
