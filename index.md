@@ -21,4 +21,4 @@ The Spine Model has many uses, three common ones are...
 1. [Guide your path to mastery](/usage/guideyourpathtomasteringskills)
 1. [Map and compare work systems](/usage/mapworksystems)
 
-([more uses](/Uses.html))
+([more uses](/uses.html))

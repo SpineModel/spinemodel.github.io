@@ -20,9 +20,9 @@
   href: "/"
   subcategories:
     - subtitle: "Uses"
-      subhref: "/Uses.html"
+      subhref: "/uses.html"
     - subtitle: "Examples"
-      subhref: "/Examples.html"
+      subhref: "/examples.html"
     - subtitle: "Case Studies"
       subhref: "/casestudies.html"
     - subtitle: "Spine Wiki"
