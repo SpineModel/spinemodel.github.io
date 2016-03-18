@@ -4,7 +4,7 @@ title: A map for learning Test Driven Development
 category : Example
 tagline: "Using the Spine Model"
 author: Kevin Trethewey
-tags: [Usage]
+tags: [Example]
 ---
 {% include JB/setup %}
 
