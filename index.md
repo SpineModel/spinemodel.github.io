@@ -11,14 +11,14 @@ tagline: The sensemaking framework for human work systems
 If you're not familiar with the Spine Model, [the introduction](/explanation/introduction/) is a good place to start.
 
 ## Looking for the Spine Catalog?
-This site explains the model in detail. If you are looking for the catalog of different Needs, Values, Principles and Practices, head to the <a href="http://spine.wiki">wiki</a>.
+If you are looking for the catalog of different Needs, Values, Principles and Practices, head to the <a href="http://spine.wiki">wiki</a>.
 
 ## Using the Spine Model 
 
-The Spine Model has many uses, three common ones are...
+The Spine Model has many applications...
 
-1. [Have effective conversations](/usage/effectiveconversations)
-1. [Guide your path to mastery](/usage/guideyourpathtomasteringskills)
-1. [Map and compare work systems](/usage/mapworksystems)
+1. [Keeping focused on what is important](/usage/keepfocusedonneed/)
+1. [Having effective conversations](/usage/effectiveconversations)
+1. [Guiding your path to mastery](/usage/guideyourpathtomasteringskills)
 
 ([more uses](/uses.html))
