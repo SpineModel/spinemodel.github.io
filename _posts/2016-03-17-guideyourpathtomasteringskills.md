@@ -3,7 +3,7 @@ layout: post
 title: Guide your path to mastering skills
 category : Usage
 tagline: "Using the Spine Model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Usage]
 ---
 {% include JB/setup %}

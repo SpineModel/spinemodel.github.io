@@ -2,7 +2,7 @@
 layout: post
 title: DeveloperUG Talk - Len Weincier, FUD at scale
 category : News
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2016 March
 order: 494
 tags: [News]

@@ -3,7 +3,7 @@ layout: post
 title: A map for learning Test Driven Development
 category : Example
 tagline: "Using the Spine Model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Example]
 ---
 {% include JB/setup %}

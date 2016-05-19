@@ -2,7 +2,7 @@
 layout: post
 title: What is the different between a "Need" and a "Want"?
 category : FAQ
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [FAQ]
 ---
 {% include JB/setup %}

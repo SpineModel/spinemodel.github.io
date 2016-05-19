@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public talk about the value of the Spine Model
+title: Alignment to corporate strategy using Spine Model
 category : CaseStudy
 author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Case Study]
@@ -9,9 +9,9 @@ tags: [Case Study]
 
 ## Context
 
-I was given a 10 minute slot at a local developer community event to introduce and explain the Spine model. Before I prepared the talk I made a quick spine of what I would like to achieve.
 
-## Talk Spine
+
+## Spine
 
 * Need
   * **Demonstrate the value of the Spine Model**

@@ -3,7 +3,7 @@ layout: post
 title: DSTV Talk - Spine Model, A systemic approach to effective leadership
 category : News
 tagline: "A leadership perspective of the model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2015 Oct
 order: 498
 tags: [News]

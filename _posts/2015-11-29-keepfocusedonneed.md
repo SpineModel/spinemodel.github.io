@@ -3,7 +3,7 @@ layout: post
 title: Keep everyone focused on what is important
 category : Usage
 tagline: "Using the Spine Model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Usage]
 ---
 {% include JB/setup %}

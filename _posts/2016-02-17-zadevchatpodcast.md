@@ -3,7 +3,7 @@ layout: post
 title: ZADevChat Podcast - Episode 29
 category : News
 tagline: "The Spine Model with Danie Roux and Kevin Trethewey"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2016 Feb
 order: 497
 tags: [News, Recordings]

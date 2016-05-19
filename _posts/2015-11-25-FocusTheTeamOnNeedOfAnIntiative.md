@@ -2,7 +2,7 @@
 layout: post
 title: Focusing a team on the purpose of a pilot initiative
 category : CaseStudy
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Case Study]
 ---
 {% include JB/setup %}

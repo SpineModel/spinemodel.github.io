@@ -3,7 +3,7 @@ layout: post
 title: The Spine Model Story
 category : Explanation
 tagline: "an explanation of the model"
-author: Kevin Trethewey, Danie Roux
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>, <a href="http://www.twitter.com/danieroux">Danie Roux</a>
 tags: [Explanation]
 ---
 {% include JB/setup %}

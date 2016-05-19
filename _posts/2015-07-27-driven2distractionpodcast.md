@@ -3,7 +3,7 @@ layout: post
 title: Driven2Distraction Podcast - Episode 20
 category : News
 tagline: "The origins and purpose of the Spine Model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2015 July
 order: 500
 tags: [News, Recordings]

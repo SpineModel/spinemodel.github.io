@@ -2,7 +2,7 @@
 layout: post
 title: Why is the Spine Model called the Spine Model?
 category : FAQ
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [FAQ]
 ---
 {% include JB/setup %}

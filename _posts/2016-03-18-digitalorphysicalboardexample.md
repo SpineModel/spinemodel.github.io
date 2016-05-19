@@ -3,7 +3,7 @@ layout: post
 title: Choosing between a digital or physical team board
 category : Example
 tagline: "Using the Spine Model"
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Example]
 ---
 {% include JB/setup %}

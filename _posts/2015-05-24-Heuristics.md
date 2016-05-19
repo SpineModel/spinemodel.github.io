@@ -3,7 +3,7 @@ layout: post
 title: Heuristics
 category : Explanation
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Explanation]
 ---
 {% include JB/setup %}

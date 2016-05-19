@@ -2,7 +2,7 @@
 layout: post
 title: In the context of Spine Model, what is a "System"?
 category : FAQ
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [FAQ]
 ---
 {% include JB/setup %}
