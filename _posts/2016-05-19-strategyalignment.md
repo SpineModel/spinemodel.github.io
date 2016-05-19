@@ -7,6 +7,8 @@ tags: [Case Study]
 ---
 {% include JB/setup %}
 
+> Download a pdf version of this case study [here](/assets/casestudies/AlignmentToCorporateStrategyUsingSpineModel.pdf).
+
 <img style="float: right; border: 30px solid white" src="/assets/images/InTheWild/strategic-themes.png">
 
 ## Context
