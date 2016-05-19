@@ -10,3 +10,5 @@ order : 4
 > Answers the question: *We do _____ to create or increase value.*
 
 Practices are the structures we use and things we do in order to get work done. To be applied effectively they should be supported by one or more [Principles](/principles.html) that are well understood by all the people implementing the Practice.
+
+For some examples of Practices, see the [wiki](http://spine.wiki/practices.html).

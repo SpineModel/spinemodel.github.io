@@ -20,3 +20,5 @@ At an *individual* level, what needs does each person hope to have met through b
 Needs should never be confused with [wants](/faq/needvswant). The set of human needs is fairly small and fairly shared. There is a fairly comprehensive list on the spine.wiki [here](http://spine.wiki/need/NVCNeeds/). 
 
 You can not *give* needs to individuals, you can only align their strategies for meeting them to each of the other people in the system, and to the needs that have been identified at the system level.
+
+For some examples of Needs, see the [wiki](http://spine.wiki/needs.html).
