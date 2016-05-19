@@ -7,6 +7,6 @@ order : 5
 ---
 {% include JB/setup %}
 
-These are the automations and mechanisations that make the work easier to do. 
+> Answers the question: *We use _____ to get the work done more efficiently.* 
 
-Answers the question: *We use _____ to get the work done more efficiently...* 
+Tools are the things we use to get our jobs done, or to automate away the menial, error prone or repetitive parts. Tools should be brought in to assist us implement one or more [Practices](/practices.html) more effectively.
