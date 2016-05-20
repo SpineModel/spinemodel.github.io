@@ -212,7 +212,7 @@ Following a Domain Driven Design approach, systems can be generally categorised 
 The parts of the system that are high ROI, high IP, business specific parts - your competitive advantage. These parts should be addressed by Long running team(s) of the best people employed and embedded in the business.
 
 ##### Supporting Domain
-The parts of the system that are bespoke, but low ROI and low IP. The parts of the system that need to exist, but you can’t just buy them off the shelf. These parts should be addressed by approaches like Co-sourcing, Consultants or leveraging off other parts of the FirstRand group.
+The parts of the system that are bespoke, but low ROI and low IP. The parts of the system that need to exist, but you can’t just buy them off the shelf. These parts should be addressed by approaches like Co-sourcing, Consultants or leveraging off other parts of the [Org].
 
 ##### Commodity Domain
 The parts of the system that are commoditised, infrastructural and have no competitive advantage. They can bought off the shelf, or gotten from open source or outsource providers.
