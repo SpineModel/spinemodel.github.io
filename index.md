@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Spine Model
-tagline: The sensemaking framework for human work systems
+tagline: Making sense of human work systems
 ---
 {% include JB/setup %}
 
@@ -9,6 +9,9 @@ tagline: The sensemaking framework for human work systems
 
 ## New to the Spine Model?
 If you're not familiar with the Spine Model, [the introduction](/explanation/introduction/) is a good place to start.
+
+## Want to attend a Spine Model workshop?
+We're currently planning a series of 1-day workshops on the model. Please [fill this in](/workshops/citysurvey/) to make sure your city is included and that we can let you know when we visit.
 
 ## Looking for the Spine Catalog?
 If you are looking for the catalog of different Needs, Values, Principles and Practices, head to the <a href="http://spine.wiki">wiki</a>.
