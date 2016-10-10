@@ -15,6 +15,8 @@ For those brand new to the model, [we](/about.html) find that it is easier to ex
 
 If you'd prefer to read about it, we've done our best to explain the model below, and for the TLDRs, [a stripped down version is here](/explanation/concise/).
 
+If you would like to attend a practical 1-day workshop in your city, please let us know [here](/workshops/citysurvey/).
+
 # Introduction
 
 In a work context, maintaining a shared perception of the way things currently are, and agreement on the way they should be is a Hard Problem.

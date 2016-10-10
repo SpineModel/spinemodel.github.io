@@ -5,7 +5,7 @@ tagline: Making sense of human work systems
 ---
 {% include JB/setup %}
 
-<img style="float: left; margin-right: 60px; max-width: 100%;" src="/assets/images/spine.png" />
+<img style="float: right; margin-left: 60px; margin-top: 20px; max-width: 100%;" src="/assets/images/spine.png" />
 
 ## New to the Spine Model?
 If you're not familiar with the Spine Model, [the introduction](/explanation/introduction/) is a good place to start.
