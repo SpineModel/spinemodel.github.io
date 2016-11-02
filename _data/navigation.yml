@@ -27,6 +27,8 @@
       subhref: "/casestudies.html"
     - subtitle: "Spine Wiki"
       subhref: "/wiki.html"
+    - subtitle: "Canvas"
+      subhref: "/canvas.html"
 - title: "Meta"
   href: "/"
   subcategories:

@@ -5,7 +5,7 @@ category : News
 author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2016 October
 order: 493
-tags: [News, Recordings]
+tags: [News]
 ---
 {% include JB/setup %}
 
