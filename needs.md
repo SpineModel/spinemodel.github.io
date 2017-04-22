@@ -7,7 +7,7 @@ order : 1
 ---
 {% include JB/setup %}
 
-> Answers the question: *The system exists in order that ______ .*
+> Answers the question: *From the perspective of ______, the system exists in order that ______.*
 
 There are two different aspects of Needs - the needs of the system itself, and the needs of the individuals within the system.
 
