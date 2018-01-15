@@ -3,7 +3,7 @@
   href: "/"
   subcategories:
     - subtitle: "Introduction"
-      subhref: "/explanation/introduction/"
+      subhref: "/explanation/introduction.html"
     - subtitle: "Needs"
       subhref: "/needs.html"
     - subtitle: "Values"

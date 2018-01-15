@@ -13,7 +13,7 @@ The Spine Model is simple but it is not simplistic. As with any skill, to really
 
 For those brand new to the model, [we](/about.html) find that it is easier to explain it conversationally rather than through text. We recommend you listen to one of the [podcasts](/news.html) we have recorded to get an introduction to the model.
 
-If you'd prefer to read about it, we've done our best to explain the model below, and for the TLDRs, [a stripped down version is here](/explanation/concise/).
+If you'd prefer to read about it, we've done our best to explain the model below, and for the TLDRs, [a stripped down version is here](/explanation/concise.html).
 
 If you would like to attend a practical 1-day workshop in your city, please let us know [here](/workshops/citysurvey/).
 
