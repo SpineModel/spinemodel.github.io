@@ -12,5 +12,5 @@ order: 7
 
 We haven't been very good at publishing case studies. This is something we are working on. Here are the ones we have published so far:
 
-{% assign posts_collate = (site.posts | where: "category" , "CaseStudy") %}
+{% assign posts_collate = site.posts | where: "category" , "CaseStudy" %}
 {% include JB/posts_collate %}

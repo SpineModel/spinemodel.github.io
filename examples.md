@@ -7,5 +7,5 @@ tagline: These are canned example Spine Models...
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = (site.posts | where: "category" , "Example") %}
+{% assign posts_collate = site.posts | where: "category" , "Example" %}
 {% include JB/posts_collate %}
