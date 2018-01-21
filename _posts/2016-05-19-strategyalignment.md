@@ -13,7 +13,7 @@ tags: [Case Study]
 
 ## Context
 
-[Driven Alliance](http://www.drivenalliance.com) facilitates an initiative for a client which they call the Continuous Improvement Initiative (CII). The client is a bank, and the initiative is sponsored from the centralised IT function. The initiative applies Agile and Lean principles to the way work works across the org, in order to improve (continuously).
+[Driven Alliance](http://www.drivenalliance.com) facilitated an initiative for a client which they called the Continuous Improvement Initiative (CII). The client was a bank, and the initiative was sponsored from the centralised IT function. The initiative applied Agile and Lean principles to the way work works across the org, in order to improve (continuously).
 
 This centralised IT function grouped its strategy into five themes. The CII was asked to align their work to these themes. This was done using the Spine Model.
 

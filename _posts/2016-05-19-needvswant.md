@@ -7,7 +7,7 @@ tags: [FAQ]
 ---
 {% include JB/setup %}
 
-[Needs](/Needs.html) have a special meaning in the Spine Model, a meaning which we have appropriated from the [NVC](http://www.nonviolentcommunication.com/aboutnvc/aboutnvc.htm) view of the world. They are common to all people and not tied to any particular circumstance or strategy for fulfilling them.
+[Needs](/needs) have a special meaning in the Spine Model, a meaning which we have appropriated from the [NVC](http://www.nonviolentcommunication.com/aboutnvc/aboutnvc.htm) view of the world. They are common to all people and not tied to any particular circumstance or strategy for fulfilling them.
 
 A *Want* is a combination of a Need and the strategy you have chosen to meet that Need. Often we are not conciously aware of that our Wants have these two distinct parts. We treat the Want as if it was a Need, and persist even when it is not meeting the underlying Need. 
 

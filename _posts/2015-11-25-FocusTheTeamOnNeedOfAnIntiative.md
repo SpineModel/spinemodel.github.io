@@ -9,7 +9,7 @@ tags: [Case Study]
 
 ## Context
 
-There was a pilot initiative, introduced by a senior company executive. It very quickly gridlocked as a fragmented discussion around tools. We needed to pull people out of the detail and get them to agree on the purpose of the pilot. We got agreement on the [Need](/Needs) and then went back down their Spine towards [Tools](/Tools).
+There was a pilot initiative, introduced by a senior company executive. It very quickly gridlocked as a fragmented discussion around tools. We needed to pull people out of the detail and get them to agree on the purpose of the pilot. We got agreement on the [Need](/needs) and then went back down their Spine towards [Tools](/tools).
 
 ## Pilot Spine
 
