@@ -20,7 +20,7 @@
     <!-- Sticky Footer -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
 
-    <link href="{{ ASSET_PATH }}/bootstrap/css/commponents.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/bootstrap/css/component.css" rel="stylesheet">
 
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
@@ -84,7 +84,7 @@
     </li>
     {% else %}
 
-    <!— display the top level navigation for items that don’t have a submenu -->
+    <!-- display the top level navigation for items that don’t have a submenu -->
     <li>
     <a href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
     {% endif %}
@@ -132,7 +132,7 @@
     </li>
     {% else %}
 
-    <!— display the top level navigation for items that don’t have a submenu -->
+    <!-- display the top level navigation for items that don’t have a submenu -->
     <li>
     <a href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
     {% endif %}
@@ -175,6 +175,6 @@
     </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
 
 </html>

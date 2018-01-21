@@ -10,7 +10,7 @@ tags: [Usage]
 
 ## Steps
 
-##### 1. Pick a useful [Archetype](/archetypes.html) spine
+##### 1. Pick a useful [Archetype](/archetypes) spine
 
 ##### 2. Customise it to suit your context
 
