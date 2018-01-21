@@ -80,7 +80,7 @@ We make a clear distinction between Personal Values and System Values.
 
 Personal Values are embodied in you and in the way that you react to the external world. If you "check out", it is always because your personal values are not being honoured. For a system to be an attractor, it needs to actively attract at least a part of your value field. For other people to know how to honour these values, you have to spend the time helping them understand which behaviours attracts you and which repels you.
 
-There are also System Values. [Extreme Programming ](/archetype/XP/), for example, says the five important values are: [Respect](/Value/Respect), [Courage](/Value/Courage), [Feedback](/Value/Feedback), [Simplicity](/Value/Simplicity) and [Communication](/Value/Communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
+There are also System Values. [Extreme Programming](http://spine.wiki/archetype/XP), for example, says the five important values are: [Respect](http://spine.wiki/value/respect), [Courage](http://spine.wiki/value/courage), [Feedback](http://spine.wiki/value/feedback), [Simplicity](http://spine.wiki/value/simplicity) and [Communication](http://spine.wiki/value/communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
 
 If a group get to the point where they create a combined attractor field and all their values have a space to be honoured, you will have a well functioning human work system. And ultimately that field will collapse and fail if this is where you stop.
 
@@ -139,4 +139,4 @@ We will address these questions and more as we expand this page.
 
 If reading this generated some thoughts, if you would like to know more about this model and how to apply it, contact Danie, Joanne and Kevin at spine@driven.email, we would be very interested to hear your feedback.
 
-*For a more concise description of the model, [read this](/explanation/concise/).*
+*For a more concise description of the model, [read this](/explanation/concise).*
