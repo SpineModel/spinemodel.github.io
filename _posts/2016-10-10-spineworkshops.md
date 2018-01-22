@@ -9,4 +9,4 @@ tags: [News]
 ---
 {% include JB/setup %}
 
-We're currently planning a series of 1-day workshops on the model. Please [fill this in](/workshops/citysurvey/) to make sure your city is included and that we can let you know when we visit.
+We're currently planning a series of 1-day workshops on the model. Please [fill this in](/workshops/citysurvey) to make sure your city is included and that we can let you know when we visit.

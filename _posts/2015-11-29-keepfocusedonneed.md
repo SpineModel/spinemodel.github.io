@@ -19,4 +19,4 @@ tags: [Usage]
 
 ## Related Case Studies 
 
-* [Focusing a team on the purpose of a pilot initiative](/CaseStudy/FocusTheTeamOnNeedOfAnIntiative)
+* [Focusing a team on the purpose of a pilot initiative](/casestudy/FocusTheTeamOnNeedOfAnIntiative)
