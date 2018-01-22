@@ -12,4 +12,4 @@ The purpose of the wiki is to catalog community contributions of [Needs](http://
 
 You can find it at [Spine.wiki](http://spine.wiki). 
 
-If you'd like to contribute, head directly [here](http://spine.wiki/faq/Contribute/).
+If you'd like to contribute, head directly [here](http://spine.wiki/explanation/Contribution).

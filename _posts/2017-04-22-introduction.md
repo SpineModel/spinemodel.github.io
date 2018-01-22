@@ -80,7 +80,7 @@ We make a clear distinction between Personal Values and System Values.
 
 Personal Values are embodied in you and in the way that you react to the external world. If you "check out", it is always because your personal values are not being honoured. For a system to be an attractor, it needs to actively attract at least a part of your value field. For other people to know how to honour these values, you have to spend the time helping them understand which behaviours attracts you and which repels you.
 
-There are also System Values. [Extreme Programming](http://spine.wiki/archetype/XP), for example, says the five important values are: [Respect](http://spine.wiki/value/respect), [Courage](http://spine.wiki/value/courage), [Feedback](http://spine.wiki/value/feedback), [Simplicity](http://spine.wiki/value/simplicity) and [Communication](http://spine.wiki/value/communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
+There are also System Values. [Extreme Programming](http://spine.wiki/archetype/XP), for example, says the five important values are: [Respect](http://spine.wiki/value/Respect), [Courage](http://spine.wiki/value/Courage), [Feedback](http://spine.wiki/value/Feedback), [Simplicity](http://spine.wiki/value/Simplicity) and [Communication](http://spine.wiki/value/Communication). That's actually where eXtreme Programming (XP) gets its name. Kent Beck chose these five Values and then figured out what an environment might look like if you chose Principles and Practices that pushed these Values to the extreme.
 
 If a group get to the point where they create a combined attractor field and all their values have a space to be honoured, you will have a well functioning human work system. And ultimately that field will collapse and fail if this is where you stop.
 
@@ -125,7 +125,7 @@ Many useless arguments also stay at the lower part of the spine. Arguing about c
 This model surfaces interesting questions:
 
 * [How do you actually apply this?](/casestudies.html)
-  * [What is a system?](/faq/whatisasystem) 
+  * [What is a system?](/faq/WhatIsASystem) 
   * How do you define the system boundaries?
   * Who decides what is important at each level of the Spine? Who should?
   * How do you get clarity on what the Needs are?
