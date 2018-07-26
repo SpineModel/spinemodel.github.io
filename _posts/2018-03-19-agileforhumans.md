@@ -5,7 +5,7 @@ category : News
 tagline: "with Kevin Trethewey and Danie Roux"
 author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 listitemprefix: 2018 Mar
-order: 1000
+order: 491
 tags: [News]
 ---
 {% include JB/setup %}
