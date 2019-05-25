@@ -1,6 +1,0 @@
-consulting approach.txt
-I help formulate the Needs of an existing system.
-I elicit the Values in use within that system.
-I teach the Principles of how the work, works.
-I embed the Practices that make those principles real.
-I advise on how to choose the best Tools to satisfy the needs.
