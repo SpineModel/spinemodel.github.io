@@ -102,7 +102,7 @@ defaults:
 
 sidebars:
 - home_sidebar
-- spinemodel_sidebar
+- documentation_sidebar
 - spinewiki_sidebar
 - other
 

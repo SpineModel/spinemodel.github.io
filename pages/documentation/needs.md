@@ -1,8 +1,8 @@
 ---
 title: Needs
-keywords: model
+keywords: documentation, model
 summary: "<b>NEEDS</b> > Values > Principles > Practices > Tools"
-sidebar: spinemodel_sidebar
+sidebar: documentation_sidebar
 permalink: needs.html
 folder: spinemodel
 ---

@@ -5,8 +5,8 @@ topnav:
   items:
     - title: Documentation
       url: /documentation.html
-    - title: Wiki
-      url: /wiki.html
+    - title: Catalogue
+      url: /catalogue.html
     - title: FAQ
       url: /faq.html
     - title: News

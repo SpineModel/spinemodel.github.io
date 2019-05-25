@@ -1,8 +1,8 @@
 ---
 title: Principles
-keywords: model
+keywords: documentation, model
 summary: "Needs > Values > <b>PRINCIPLES</b> > Practices > Tools"
-sidebar: spinemodel_sidebar
+sidebar: documentation_sidebar
 permalink: principles.html
 folder: spinemodel
 ---

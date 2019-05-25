@@ -11,8 +11,8 @@ entries:
     - title: Documentation
       url: /documentation.html
       output: web
-    - title: Wiki
-      url: /wiki.html
+    - title: Catalogue
+      url: /catalogue.html
       output: web
     - title: FAQ
       url: /faq.html

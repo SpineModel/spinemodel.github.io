@@ -2,7 +2,7 @@
 title: "Getting started with the Spine Model"
 keywords: sample homepage
 tags: [getting_started]
-sidebar: spinemodel_sidebar
+sidebar: documentation_sidebar
 permalink: index.html
 summary: These brief instructions will help you get started quickly with the Spine Model. The other topics in this guide provide additional information and detail about working with other aspects of the model.
 ---

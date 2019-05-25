@@ -581,7 +581,7 @@ a[data-toggle] {
 }
 
 .summary:before {
-    content: "Summary: ";
+    content: "";
     font-weight: bold;
 }
 

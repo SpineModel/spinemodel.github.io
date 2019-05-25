@@ -1,8 +1,8 @@
 ---
 title: Practices
-keywords: model
+keywords: documentation, model
 summary: "Needs > Values > Principles > <b>PRACTICES</b> > Tools"
-sidebar: spinemodel_sidebar
+sidebar: documentation_sidebar
 permalink: practices.html
 folder: spinemodel
 ---

@@ -2,7 +2,7 @@
 title: Sample 2 Topic (Spine Model)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: spinemodel_sidebar
+sidebar: documentation_sidebar
 permalink: sm_sample2.html
 folder: product1
 ---
