@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-categories: jekyll update
+category : News
 permalink: myupdate.html
 tags: [news]
 ---

@@ -7,6 +7,7 @@ category : CaseStudy
 permalink: focusing-on-purpose.html
 tags: [Case Study]
 folder: documentation
+last_updated: 25 May 2019
 ---
 
 ## Context
