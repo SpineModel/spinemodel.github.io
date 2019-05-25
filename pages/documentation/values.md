@@ -4,10 +4,10 @@ keywords: documentation, model
 summary: "Needs > <b>VALUES</b> > Principles > Practices > Tools"
 sidebar: documentation_sidebar
 permalink: values.html
-folder: spinemodel
+folder: documentation
 ---
 
-{% include tip.html content="Answers the question: *We optimise the system for {X}, so that meeting the Needs is more likely.*" %}
+{% include tip.html content="Resolve the statement: *We optimise the system for {X}, so that meeting the Needs is more likely.*" %}
 
 Values are the qualities we believe we should optimise for in order to meet the [Needs](/needs). They can be used as measuring sticks when deciding how to apply [Principles](/principles), or which path forward to take (eg. will X change give us more predictability or less?).
 

@@ -4,10 +4,10 @@ keywords: documentation, model
 summary: "Needs > Values > <b>PRINCIPLES</b> > Practices > Tools"
 sidebar: documentation_sidebar
 permalink: principles.html
-folder: spinemodel
+folder: documentation
 ---
 
-{% include tip.html content="Answers the question: *We leverage {X} to get more of what we Value.*" %}
+{% include tip.html content="Resolve the statement: *We leverage {X} to get more of what we Value.*" %}
  
 Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as heuristics that provide boundaries within which concrete practices are applied.
 

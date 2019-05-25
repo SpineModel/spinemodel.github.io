@@ -52,17 +52,17 @@ entries:
 
     folderitems:
     - title: Uses
-      url: /sm_uses.html
+      url: /uses.html
       output: web, pdf
 
     - title: Examples
-      url: /sm_examples.html
+      url: /examples.html
       output: web, pdf
 
     - title: Case Studies
-      url: /sm_casestudies.html
+      url: /casestudies.html
       output: web, pdf
 
     - title: Canvas
-      url: /sm_canvas.html
+      url: /canvas.html
       output: web, pdf

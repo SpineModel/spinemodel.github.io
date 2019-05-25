@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: SpineModel/spinemodel.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: Spine Model Documentation and Wiki
 company_name: Kevin Trethewey & Danie Roux
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: SpineModel/spinemodel.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/

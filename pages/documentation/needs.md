@@ -4,10 +4,10 @@ keywords: documentation, model
 summary: "<b>NEEDS</b> > Values > Principles > Practices > Tools"
 sidebar: documentation_sidebar
 permalink: needs.html
-folder: spinemodel
+folder: documentation
 ---
 
-{% include tip.html content="Answers the question: *From the perspective of {X}, this part of the system exists in order that {Y} can be achieved.*
+{% include tip.html content="Resolve the statement: *From the perspective of {X}, this part of the system exists in order that {Y} can be achieved.*
 " %}
  
 There are two different aspects of Needs - the needs of the system itself, and the needs of the individuals within the system.

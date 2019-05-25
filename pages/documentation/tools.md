@@ -4,10 +4,10 @@ keywords: documentation, model
 summary: "Needs > Values > Principles > Practices > <b>TOOLS</b>"
 sidebar: documentation_sidebar
 permalink: tools.html
-folder: spinemodel
+folder: documentation
 ---
 
-{% include tip.html content="Answers the question: *We use {X} to apply our Practices more efficiently.*" %}
+{% include tip.html content="Resolve the statement: *We use {X} to apply our Practices more efficiently.*" %}
 
 Tools are the things we use to get our jobs done, or to automate away the menial, error prone or repetitive parts. Tools should be brought in to assist us implement one or more [Practices](/practices) more effectively.
 
