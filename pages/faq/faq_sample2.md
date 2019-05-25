@@ -1,16 +1,11 @@
 ---
-title: Sample 14 Topic
+title: Sample 2 Topic (Spine Model)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: product2_sidebar
-permalink: p2_sample14.html
-complex_map: true
-map_name: usermapcomplex
-box_number: 3
-toc: false
-folder: product2
+sidebar: spinemodel_sidebar
+permalink: sm_sample2.html
+folder: product1
 ---
-
 
 ## Sample Content
 

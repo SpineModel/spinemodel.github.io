@@ -1,13 +1,10 @@
 ---
-title: Sample 5 Topic
+title: Sample 6 Topic (Spine Wiki)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: product2_sidebar
-permalink: p2_sample5.html
-simple_map: true
-map_name: usermap
-box_number: 5
-folder: product2
+sidebar: spinewiki_sidebar
+permalink: sw_sample6.html
+folder: product1
 ---
 
 ## Sample Content

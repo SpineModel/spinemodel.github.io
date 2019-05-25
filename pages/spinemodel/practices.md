@@ -1,0 +1,16 @@
+---
+title: Practices
+keywords: model
+summary: "Needs > Values > Principles > <b>PRACTICES</b> > Tools"
+sidebar: spinemodel_sidebar
+permalink: practices.html
+folder: spinemodel
+---
+
+{% include tip.html content="Answers the question: *We do {X} to apply the Principles that matter in this context.*" %}
+ 
+Practices are the structures we use and things we do in order to get work done. To be applied effectively they should be supported by one or more [Principles](/principles.html) that are well understood by all the people implementing the Practice.
+
+For some examples of Practices, see the [wiki](http://spine.wiki/practices.html).
+
+{% include links.html %}
