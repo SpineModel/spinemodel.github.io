@@ -1,5 +1,5 @@
 ---
-title: Alignment to corporate strategy using Spine Model
+title: Alignment to organisational strategy using Spine Model
 summary: Using the Spine Model to get alignment within a group of collaborators
 sidebar: documentation_sidebar
 keywords: documentation, model, casestudy

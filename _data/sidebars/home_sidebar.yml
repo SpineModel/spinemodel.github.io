@@ -20,6 +20,9 @@ entries:
     - title: News
       url: /news.html
       output: web
+    - title: Contribute
+      url: /contribution.html
+      output: web
     - title: About
       url: /about.html
       output: web

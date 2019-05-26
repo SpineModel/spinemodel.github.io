@@ -25,3 +25,7 @@ summary: Applying the Spine Model can help you to make sense of your work enviro
 </ol>
 
 <p>(<a href="/uses">more uses</a>)</p>
+
+<h2>Contribute</h2>
+
+<p>We welcome <a href="contribution.html">contributions</a> to the documentation and catalogue.</p>
