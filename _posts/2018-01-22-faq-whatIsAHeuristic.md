@@ -13,7 +13,7 @@ Heuristics are rules of thumb. They are generally true, but there can be excepti
 
 For example we often use these three for teams:
 
-* **Increase** [feedback](http://spine.wiki/value/Feedback)
+* **Increase** [feedback](value-xp-feedback)
 * **Decrease** [batch size](http://spine.wiki/principle/BatchSize) 
 * **Pull** [work through the system](http://spine.wiki/principle/PullWorkThroughTheSystem)
 
