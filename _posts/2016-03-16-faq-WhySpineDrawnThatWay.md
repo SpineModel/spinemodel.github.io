@@ -1,5 +1,5 @@
 ---
-title: Why is the Spine Model visualisation done the way it is?
+title: Why is the Spine Model visualised the way it is?
 category : FAQ
 permalink: why-spine-drawn-that-way.html
 tags: [FAQ]
