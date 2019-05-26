@@ -1,7 +1,7 @@
 ---
 title: What is a Heuristic?
 category : FAQ
-permalink: what-is-a-heuristic.html
+permalink: heuristics.html
 tags: [FAQ]
 ---
 

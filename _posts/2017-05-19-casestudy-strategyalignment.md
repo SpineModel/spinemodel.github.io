@@ -68,7 +68,7 @@ For server virtualisation this means being able to create, destroy and move arou
 Virtualisation allows you to treat systems like cattle, not pets. Creating and destroying them according to the demand in real time.
 
 ### Principles
->Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as heuristics that provide boundaries within which concrete practices are applied.
+>Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as [heuristics](heuristics) that provide boundaries within which concrete practices are applied.
 
 Some of the principles that could be used to optimise for the values above are...
 
@@ -166,7 +166,7 @@ Without real world feedback about what is actually happening, decisions will mad
 It is impossible to optimise if you are unable to respond the feedback you get, or the changes around you. Without everyone buying into a culture of continual improvement, small incremental change opportunities will not be created and any beneficial changes will be lost due to entropy.
 
 ### Principles
-> Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as heuristics that provide boundaries within which concrete practices are applied.
+> Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as [heuristics](heuristics) that provide boundaries within which concrete practices are applied.
 
 Some of the principles that could be used to optimise for the values above are...
 

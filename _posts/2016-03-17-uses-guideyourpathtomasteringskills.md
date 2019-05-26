@@ -36,6 +36,6 @@ As you can see from the model, as a person progresses from Novice to Expert for 
 If you are guiding Novices, you should provide them with enough rules at a [Practices] and [Tools] level in order for them to take appropriate action. These rules must still be linked to [Principles] and [Values] that meet [Needs]. Doing this will enable their more rapid progression on the Novice to Master spectrum.
 
 #### Competent and above
-As a person has progressed on the spectrum they will start to feel constrained by those same rules that they required as a Novice. At this time, [heuristics](what-is-a-heuristic) based on Principles are a more appropriate way of creating directive boundaries and enabling constraints. Failing to make the switch from rules to heuristics will limit peoples progression on the spectrum, aside from causing them frustration.
+As a person has progressed on the spectrum they will start to feel constrained by those same rules that they required as a Novice. At this time, [heuristics] based on Principles are a more appropriate way of creating directive boundaries and enabling constraints. Failing to make the switch from rules to heuristics will limit peoples progression on the spectrum, aside from causing them frustration.
 
 {% include links.html %}

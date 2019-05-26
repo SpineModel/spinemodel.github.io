@@ -9,7 +9,7 @@ folder: documentation
 
 {% include tip.html content="Resolve the statement: *We leverage {X} to get more of what we Value.*" %}
  
-Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as heuristics that provide boundaries within which concrete practices are applied.
+Principles are general truths or propositions that could have numerous ways of being applied. They describe dynamics of how work works in an particular environment. They are commonly expressed as [heuristics](heuristics) that provide boundaries within which concrete practices are applied.
 
 When applying the Spine Model, you need understand which Principles are important in your context so that you make sure you can use them to your advantage. You do this by looking at the [Values](/values). You also need to be able to uncover and debate the Principles on which other people are basing their assumptions. 
 
