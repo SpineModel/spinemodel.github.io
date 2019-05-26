@@ -5,8 +5,7 @@ permalink: developerUG-talk.html
 tags: [News]
 ---
 
-<img style="border: 3px solid black" src="/assets/images/InTheWild/len.JPG">
-
+<img style="border: 3px solid black" src="Images/InTheWild/len.JPG">
 
 During Len's talk he referenced Spine as way of reducing FUD.
 

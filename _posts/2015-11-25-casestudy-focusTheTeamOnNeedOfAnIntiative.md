@@ -10,6 +10,8 @@ folder: documentation
 last_updated: 25 May 2019
 ---
 
+{% include note.html content="Case Study Reporter: [Kevin Trethewey](http://www.twitter.com/kevintrethewey)" %}
+
 ## Context
 
 A new pilot initiative was introduced by a senior company executive. It very quickly gridlocked as a fragmented discussion around tools. As consultants, we needed to pull people out of the detail and get them to agree on the purpose of the pilot. We got agreement on the [Need](/needs) and then went back down their Spine towards [Tools](/tools).

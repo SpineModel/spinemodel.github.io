@@ -10,6 +10,8 @@ folder: documentation
 last_updated: 25 May 2019
 ---
 
+{% include note.html content="Case Study Reporter: [Kevin Trethewey](http://www.twitter.com/kevintrethewey)" %}
+
 A team needed to choose between a digital or a physical team board to track their work (a [Tool](/tools) decision). This team needed to deliver software features early and incrementally to a customer with uncertain requirements.
 
 They created this prototype Spine Map:

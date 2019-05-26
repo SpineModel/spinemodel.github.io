@@ -4,6 +4,7 @@ keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
+toc: false
 summary: Applying the Spine Model can help you to make sense of your work environment, improve collaboration and help your organisation to be more agile.
 ---
 

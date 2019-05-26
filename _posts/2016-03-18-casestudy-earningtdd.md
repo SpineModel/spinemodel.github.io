@@ -10,6 +10,8 @@ folder: documentation
 last_updated: 25 May 2019
 ---
 
+{% include note.html content="Case Study Reporter: [Kevin Trethewey](http://www.twitter.com/kevintrethewey)" %}
+
 This shows a starter map that was created to give to people who were just starting to learn  TDD (Test Driven Development)...
 
 | Level | Description |
@@ -20,3 +22,4 @@ This shows a starter map that was created to give to people who were just starti
 | **Practices** | Test Driven Development, [Red, Green, Refactor] |
 | **Tools** | Test runner, IDE |
 
+{% include links.html %}
