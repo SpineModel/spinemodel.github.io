@@ -10,6 +10,6 @@ topnav:
     - title: FAQ
       url: /faq.html
     - title: News
-      url: /news
+      url: /news.html
     - title: GitHub
       external_url: https://github.com/SpineModel/spinemodel.github.io

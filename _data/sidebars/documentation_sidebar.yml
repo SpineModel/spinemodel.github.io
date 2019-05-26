@@ -51,12 +51,12 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Uses
-      url: /uses.html
+    - title: Archetypes
+      url: /archetypes.html
       output: web, pdf
 
-    - title: Examples
-      url: /examples.html
+    - title: Potential Applications
+      url: /uses.html
       output: web, pdf
 
     - title: Case Studies
