@@ -23,3 +23,5 @@ last_updated: 25 May 2019
 # Related Case Studies 
 
 * TODO
+
+{% include links.html %}

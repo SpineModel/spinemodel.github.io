@@ -36,3 +36,5 @@ A new pilot initiative was introduced by a senior company executive. It very qui
 The team became more focused on the pilot's [Needs](/needs) once they were made explicit, and began experimenting with different ways they could tweak the practices and tooling to make them more valuable to the team, whilst still satisfying the higher level need of management.
 
 Their Spine Map became an artifact that was brought out at times where there was disagreement or confusion about the process.
+
+{% include links.html %}
