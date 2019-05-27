@@ -15,7 +15,7 @@ Extreme Programming focuses on delivering business value in every iteration. To 
 
 The refactoring process focuses on removal of duplication (a sure sign of poor design), and on increasing the “cohesion” of the code, while lowering the “coupling”. High cohesion and low coupling have been recognized as the hallmarks of well-designed code for at least thirty years. The result is that XP teams start with a good, simple design, and always have a good, simple design for the software. This lets them sustain their development speed, and in fact generally increase speed as the project goes forward.
 
-Refactoring is, of course, strongly supported by comprehensive testing to be sure that as the design evolves, nothing is broken. Thus the [customer tests](/practice/CustomerTests) and [programmer tests](practices-xp-tdd) are a critical enabling factor. The XP practices support each other: they are stronger together than separately.
+Refactoring is, of course, strongly supported by comprehensive testing to be sure that as the design evolves, nothing is broken. Thus the [customer tests](practices-xp-customertests) and [programmer tests](practices-xp-tdd) are a critical enabling factor. The XP practices support each other: they are stronger together than separately.
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*
 {% include links.html %}

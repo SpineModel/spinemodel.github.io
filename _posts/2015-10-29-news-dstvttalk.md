@@ -7,6 +7,6 @@ tags: [news]
 ---
 We were invited to DSTV to reprise our talk from Agile2015.
 
-We changed the talk slightly to cater for the different audience. You can download the slides from this talk [here](/assets/presentations/spineDSTV.pdf).
+We changed the talk slightly to cater for the different audience. You can download the slides from this talk [here](/pdf/spineDSTV.pdf).
 
 {% include links.html %}
