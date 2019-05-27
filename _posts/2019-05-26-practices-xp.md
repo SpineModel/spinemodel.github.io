@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [eXtreme Programming archetype](/archetype/XP)." %}
+{% include note.html content="For more information, review the [eXtreme Programming archetype](xp-archetype)." %}
 
 XP's philosophy on [Practices](practices) is very non-prescriptive, and advises an explorative approach, based on the [XP Principles](xp-principles) and [XP Values](xp-values).
 

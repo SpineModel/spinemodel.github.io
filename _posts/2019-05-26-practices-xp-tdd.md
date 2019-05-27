@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [eXtreme Programming archetype](/archetype/XP)." %}
+{% include note.html content="For more information, review the [eXtreme Programming archetype](xp-archetype)." %}
 
 Extreme Programming is obsessed with feedback, and in software development, good feedback requires good testing. Top XP teams practice “test-driven development”, working in very short cycles of adding a test, then making it work. Almost effortlessly, teams produce code with nearly 100 percent test coverage, which is a great step forward in most shops. (If your programmers are already doing even more sophisticated testing, more power to you. Keep it up, it can only help!)
 

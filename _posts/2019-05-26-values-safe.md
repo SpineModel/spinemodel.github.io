@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [SAFe archetype](/archetype/SAFe)." %}
+{% include note.html content="For more information, review the [SAFe archetype](safe-archetype)." %}
 
 1. [Alignment](value-safe-alignment)
 1. [Code Quality](value-safe-codequality)

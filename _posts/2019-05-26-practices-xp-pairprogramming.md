@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [eXtreme Programming archetype](/archetype/XP)." %}
+{% include note.html content="For more information, review the [eXtreme Programming archetype](xp-archetype)." %}
 
 All production software in XP is built by two programmers, sitting side by side, at the same machine. This practice ensures that all production code is reviewed by at least one other programmer, and results in better design, better testing, and better code.
 

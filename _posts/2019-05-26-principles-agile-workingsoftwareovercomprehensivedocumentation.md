@@ -9,6 +9,6 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-This is the second [Principle](principles) of the [Agile Manifesto](/archetype/AgileManifesto).
+This is the second [Principle](principles) of the [Agile Manifesto](agilemanifesto-archetype).
 
 {% include links.html %}

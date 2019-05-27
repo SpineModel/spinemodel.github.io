@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [Scaled Agile Framework](/archetype/SAFe)." %}
+{% include note.html content="For more information, review the [Scaled Agile Framework](safe-archetype)." %}
 ---
 
 1. [Take an Economic View](principle-safe-takeaneconomicview)

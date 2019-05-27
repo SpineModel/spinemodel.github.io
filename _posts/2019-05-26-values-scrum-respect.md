@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-## As defined in [SCRUM](/archetype/Scrum)
+## As defined in [SCRUM](scrum-archetype)
 As we work together, sharing successes and failures, we come to respect each other and to help each other become worthy of respect.
 
 *(via [scrumalliance.org](https://www.scrumalliance.org/why-scrum/core-scrum-values-roles))*

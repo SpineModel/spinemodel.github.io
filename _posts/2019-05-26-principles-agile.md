@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [Agile Manifesto archetype](/archetype/AgileManifesto)." %}
+{% include note.html content="For more information, review the [Agile Manifesto archetype](agilemanifesto-archetype)." %}
 
 # Primary Principles
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

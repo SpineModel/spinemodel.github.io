@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [eXtreme Programming archetype](/archetype/XP)." %}
+{% include note.html content="For more information, review the [eXtreme Programming archetype](xp-archetype)." %}
 
 All the contributors to an XP project sit together, members of one team. 
 

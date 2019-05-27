@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [Scrum archetype](/archetype/Scrum)." %}
+{% include note.html content="For more information, review the [Scrum archetype](scrum-archetype)." %}
 
 * [Focus](value-scrum-focus)
 * [Courage](value-scrum-courage)
