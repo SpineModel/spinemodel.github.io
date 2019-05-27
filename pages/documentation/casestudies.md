@@ -7,7 +7,7 @@ permalink: casestudies.html
 folder: documentation
 ---
 
-<img style="float: right; border: 30px solid white" src="Images/InTheWild/jo_perold.png">
+<img style="float: right; border: 30px solid white" src="images/InTheWild/jo_perold.png">
 
 There hasn't been a great focus on publishing case studies. If you have one, please submit it and we will gladly add it to the list...
 

@@ -15,7 +15,7 @@ rvm --default use 2.6.3							# if you want to
 
 {% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
 
-<img style="float: right; border: 30px solid white" src="Images/InTheWild/jo_perold.png">
+<img style="float: right; border: 30px solid white" src="images/InTheWild/jo_perold.png">
 
 
 | Level | Description |

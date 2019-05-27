@@ -9,7 +9,7 @@ tags: [FAQ]
 
 There were many iterations of drawing out the Spine Model. Here is one of the earliest drawings...
 
-<img style="border: 20px solid white" src="Images/spine-early.JPG">
+<img style="border: 20px solid white" src="images/spine-early.JPG">
 
 Square brackets were drawn around [Practices], because that is where people seemed to get fixated on, and they needed to lift up to a higher level. Over time we started to leave that detail out.
 
@@ -17,7 +17,7 @@ We spent a lot of time talking about the direction of the arrows and what they m
 
 Today, this is the official image for the model:
 
-<img style="border: 10px solid white" src="Images/spine.png">
+<img style="border: 10px solid white" src="images/spine.png">
 
 Each aspect of it is chosen with intent to convey a meaning. 
 

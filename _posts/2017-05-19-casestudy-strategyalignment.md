@@ -14,7 +14,7 @@ last_updated: 25 May 2019
 
 {% include callout.html content="Download a pdf version of this case study [here](/pdf/AlignmentToCorporateStrategyUsingSpineModel.pdf)." type="info" %}
 
-<img style="float: right; border: 30px solid white" src="Images/InTheWild/strategic-themes.png">
+<img style="float: right; border: 30px solid white" src="images/InTheWild/strategic-themes.png">
 
 ## Context
 

@@ -5,7 +5,7 @@ permalink: why-spine-model.html
 tags: [FAQ]
 ---
 
-<img align="right" alt="Spinal Column" src="Images/spinalcolumn.png" style="max-width: 100%;" />
+<img align="right" alt="Spinal Column" src="images/spinalcolumn.png" style="max-width: 100%;" />
 
 The Spine Model is based on a chain of levels, and when written out, resembles the vertebrae of a spine - the central frame off which your body is supported.
 
