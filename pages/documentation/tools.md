@@ -13,6 +13,6 @@ Tools are the things we use to get our jobs done, or to automate away the menial
 
 If a tool is preventing you from applying your chosen Practices effectively it should be changed or replaced.
 
-For some examples of Tools, see the [wiki](http://spine.wiki/tools.html).
+For some examples of Tools, see the [Tools Catalogue](tools-catalogue).
 
 {% include links.html %}

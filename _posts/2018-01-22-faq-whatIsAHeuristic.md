@@ -14,8 +14,8 @@ Heuristics are rules of thumb. They are generally true, but there can be excepti
 For example we often use these three for teams:
 
 * **Increase** [feedback](value-xp-feedback)
-* **Decrease** [batch size](http://spine.wiki/principle/BatchSize) 
-* **Pull** [work through the system](http://spine.wiki/principle/PullWorkThroughTheSystem)
+* **Decrease** batch size
+* **Pull** work through the system
 
 This does not tell teams what [Practices] to use, however they can be measured against whether or not they are applying the [Principles] in a desirable way - which is a big advantage over hard rules.
 

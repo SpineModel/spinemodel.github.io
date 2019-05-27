@@ -11,6 +11,6 @@ folder: documentation
  
 Practices are the structures we use and things we do in order to get work done. To be applied effectively they should be supported by one or more [Principles](/principles.html) that are well understood by all the people implementing the Practice.
 
-For some examples of Practices, see the [wiki](http://spine.wiki/practices.html).
+For some examples of Practices, see the [Practices Catalogue](practices-catalogue).
 
 {% include links.html %}

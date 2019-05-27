@@ -19,6 +19,6 @@ Unlike [Practices](/practices), Principles are often fractal in nature, applying
 
 Useful systemic principles can be extracted from many different schools of thought - Queuing Theory, Complexity Science and Theory of Constraints to name just three.
 
-For some examples of Principles, see the [wiki](http://spine.wiki/principles.html).
+For some examples of Principles, see the [Principles Catalogue](principles-catalogue).
 
 {% include links.html %}

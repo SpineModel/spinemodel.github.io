@@ -13,3 +13,6 @@ what-is-a-heuristic.html - add catalogue links
 pdf generation
 http://127.0.0.1:4000/agile-2015-conference-talk
 tags not working properly (homepage is though)
+
+add these two pages...
+* **Decrease** [batch size](http://spine.wiki/principle/BatchSize) 
