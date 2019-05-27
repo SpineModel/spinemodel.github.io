@@ -4,7 +4,7 @@ summary: Using the Spine Model to guide your learning
 sidebar: documentation_sidebar
 keywords: documentation, model
 category : Uses
-permalink: guide-your-path-to-matering-skills.html
+permalink: guide-your-path-to-mastering-skills.html
 tags: [Uses]
 folder: documentation
 last_updated: 25 May 2019

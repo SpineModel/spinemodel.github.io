@@ -19,6 +19,6 @@ For example we often use these three for teams:
 
 This does not tell teams what [Practices] to use, however they can be measured against whether or not they are applying the [Principles] in a desirable way - which is a big advantage over hard rules.
 
-See the [Path to Mastering Skills](guide-your-path-to-matering-skills) article for more some more in depth exploration of when heuristics are appropriate.
+See the [Path to Mastering Skills](guide-your-path-to-mastering-skills) article for more some more in depth exploration of when heuristics are appropriate.
 
 {% include links.html %}

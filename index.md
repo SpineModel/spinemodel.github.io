@@ -22,9 +22,9 @@ summary: Applying the Spine Model can help you to make sense of your work enviro
 <p>The Spine Model has many uses…</p>
 
 <ol>
-  <li><a href="/usage/keepfocusedonneed">Keeping focused on what is important</a></li>
-  <li><a href="/usage/effectiveconversations">Having effective conversations</a></li>
-  <li><a href="/usage/guideyourpathtomasteringskills">Guiding your path to mastery</a></li>
+  <li><a href="keep-focused-on-need">Keeping focused on what is important</a></li>
+  <li><a href="effective-conversations">Having effective conversations</a></li>
+  <li><a href="guide-your-path-to-mastering-skills">Guiding your path to mastery</a></li>
 </ol>
 
 <p>(<a href="/uses">more uses</a>)</p>
