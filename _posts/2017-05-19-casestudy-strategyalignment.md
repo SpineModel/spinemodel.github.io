@@ -221,7 +221,7 @@ The cost of these teams is fixed, because the team is fixed. Charge-back can hap
 
 #### 3. Stories (Epics->Stories->Tasks)
 
-<img style="border: 30px solid white" src="/Images/InTheWild/epics-stories-tasks.png">
+<img style="border: 30px solid white" src="/images/InTheWild/epics-stories-tasks.png">
 
 User stories should be used to state the business problem, from the perspective of the customer, without prescribing the solution. Typically a user story, once prioritised, can be complete within an iteration. 
 
