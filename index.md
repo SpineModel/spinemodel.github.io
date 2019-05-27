@@ -8,7 +8,10 @@ toc: false
 summary: Applying the Spine Model can help you to make sense of your work environment, improve collaboration and help your organisation to be more agile.
 ---
 
+<img style="float: right; border: 30px solid white" src="Images/spine.png">
+
 <h2>New to the Spine Model?</h2>
+
 <p>If you’re not familiar with the Spine Model, <a href="documentation.html">the introduction</a> is a good point in the documentation.</p>
 
 <h2>The Spine Catalog</h2>
