@@ -13,5 +13,5 @@ There are many patterns, models and frameworks for designing human work systems.
 
 Approaching them in this way makes them easier to understand and to start to compare to each other. It also makes them easier to use as a departure point from which to effectively evolve to suit your particular context.
 
-{% include tip.html content="See the [wiki catalog](http://spine.wiki/archetypes.html) for the archetypes that have been created so far." %}
+{% include tip.html content="See the [catalogue](archetypes-catalogue) for the archetypes that have been mapped out so far." %}
 

@@ -9,7 +9,7 @@ folder: documentation
 
 {% include tip.html content="Values resolve this statement: <i>We optimise the system for {X}, so that meeting the Needs is more likely.</i>" %}
 
-{% assign sorted-posts = site.posts | where: "category","Values" %}
+{% assign sorted-posts = site.posts | where: "category","Values" | sort %}
 {% include_relative list-posts.md %}
 
 {% include links.html %}

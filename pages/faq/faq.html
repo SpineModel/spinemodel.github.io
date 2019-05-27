@@ -11,7 +11,7 @@ folder: faq
 
     <div class="post-list">
     <section id="archive">
-        {% assign sorted-posts = site.posts | where: "category","FAQ" %}
+        {% assign sorted-posts = site.posts | where: "category","FAQ" | sort %}
         {%for post in sorted-posts %}
         <ul>
             <li><a href="{{ post.url | remove: "/"}}">{{ post.title }}</a></li>
