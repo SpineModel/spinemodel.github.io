@@ -7,6 +7,8 @@ toc: false
 permalink: contribution.html
 ---
 
+{% include image.html file="sharing.jpg" alt="Sharing" %}
+
 {% include callout.html content="👍 🎉 First off, thanks for taking the time to contribute! We're really glad you're reading this, because we need active contributers. 👍 🎉 " type="primary" %}
 
 
