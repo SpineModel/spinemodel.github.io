@@ -3,7 +3,7 @@ title: Spine Model Workshops
 category : News
 tagline: ""
 permalink: spine-model-workshops.html
-tags: [News, Workshops]
+tags: [news, workshops]
 ---
 
 We're currently planning a series of 1-day Spine Model workshops. Please fill in this survey to make sure your city is included, and so we can let you know when we visit your city.

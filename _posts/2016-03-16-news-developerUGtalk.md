@@ -2,7 +2,7 @@
 title: DeveloperUG Talk - Len Weincier, FUD at scale
 category : News
 permalink: developerUG-talk.html
-tags: [News]
+tags: [news]
 ---
 
 <img style="border: 3px solid black" src="images/InTheWild/len.jpg">
