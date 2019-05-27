@@ -9,7 +9,7 @@ folder: catalogue
 last_updated: 25 May 2019
 ---
 
-{% include note.html content="For more information, review the [Large Scale Scrum archetype](/archetype/LeSS)." %}
+{% include note.html content="For more information, review the [Large Scale Scrum archetype](less-archetype)." %}
 
 # 10 Principles
 
