@@ -1,11 +1,13 @@
 ---
-title: "Mobile Pages"
+title: "Uses of the Model"
+tagName: uses
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_uses.html
 sidebar: mydoc_sidebar
+hide_sidebar: true
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

@@ -3,7 +3,7 @@
 title: Is it recommended to get complete alignment on one level before moving to the next?
 category : FAQ
 permalink: is-alignment-linear.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 Not only would that not be a recommended approach, "complete alignment" isn't really a possibility.

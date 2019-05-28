@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Principles
 permalink: xp-principles.html
-tags: [Principles, XP]
+tags: [principles, xp]
 folder: catalogue
 last_updated: 25 May 2019
 ---

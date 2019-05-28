@@ -1,11 +1,13 @@
 ---
-title: "Troubleshooting pages"
-tagName: troubleshooting
+title: "Kanban"
+tagName: kanban
 search: exclude
-permalink: tag_troubleshooting.html
+permalink: tag_kanban.html
 sidebar: mydoc_sidebar
+hide_sidebar: true
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

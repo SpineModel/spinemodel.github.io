@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Principles
 permalink: safe-principles.html
-tags: [Principles, SAFe]
+tags: [principles, safe]
 folder: catalogue
 last_updated: 25 May 2019
 ---

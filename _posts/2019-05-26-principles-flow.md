@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Principles
 permalink: flow-principles.html
-tags: [Principles, Flow]
+tags: [principles, flow]
 folder: catalogue
 last_updated: 25 May 2019
 ---

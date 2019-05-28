@@ -2,7 +2,7 @@
 title: Why is the Spine Model called the Spine Model?
 category : FAQ
 permalink: why-spine-model.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 <img align="right" alt="Spinal Column" src="images/spinalcolumn.png" style="max-width: 100%;" />

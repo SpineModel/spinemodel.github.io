@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, values
 category : Values
 permalink: safe-values.html
-tags: [Values, Safe]
+tags: [values, safe]
 folder: catalogue
 last_updated: 25 May 2019
 ---

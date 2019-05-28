@@ -5,6 +5,7 @@ summary: "Meta information about the Spine Model"
 sidebar: home_sidebar
 toc: false
 permalink: about.html
+tags: [getting_started]
 ---
 The Spine Model ([read this for an intro to the model itself](documentation)), originated from the collaboration on organisational coaching work done by [Kevin Trethewey](http://www.twitter.com/kevintrethewey) and [Danie Roux](http://www.twitter.com/danieroux). Since then a number of people have collaborated and added ideas to the model, in various useful ways.
 

@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: xp-archetype.html
-tags: [Archetype, XP]
+tags: [archetype, XP]
 folder: catalogue
 last_updated: 27 May 2019
 ---

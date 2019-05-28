@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: scrum-archetype.html
-tags: [Archetype, Scrum]
+tags: [archetype, Scrum]
 folder: catalogue
 last_updated: 27 May 2019
 ---

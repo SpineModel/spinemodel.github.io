@@ -2,7 +2,7 @@
 title: In the context of Spine Model, what is a "System"?
 category : FAQ
 permalink: what-is-a-system.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 When we talk about a System in the Spine Model we are typically referring to a human work system, and using the term in the "Systems Thinking" sense.

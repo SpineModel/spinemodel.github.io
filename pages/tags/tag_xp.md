@@ -1,11 +1,13 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "Extreme Programming"
+tagName: xp
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_xp.html
 sidebar: mydoc_sidebar
+hide_sidebar: true
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

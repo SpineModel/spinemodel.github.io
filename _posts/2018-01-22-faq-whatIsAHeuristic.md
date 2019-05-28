@@ -2,7 +2,7 @@
 title: What is a Heuristic?
 category : FAQ
 permalink: heuristics.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 Heuristics are rules of thumb. They are generally true, but there can be exceptions in certain contexts, so they are more flexible than rules.

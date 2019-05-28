@@ -5,7 +5,7 @@ sidebar: documentation_sidebar
 keywords: documentation, model
 category : Uses
 permalink: keep-focused-on-need.html
-tags: [Uses]
+tags: [uses]
 folder: documentation
 last_updated: 25 May 2019
 ---

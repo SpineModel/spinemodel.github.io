@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Agile-Principles
 permalink: principle-agile-respondingtochange.html
-tags: [Principles, AgileManifesto]
+tags: [principles, agile_manifesto]
 folder: catalogue
 last_updated: 25 May 2019
 ---

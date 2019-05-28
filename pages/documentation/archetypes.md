@@ -5,6 +5,7 @@ summary: "Spine maps of popular organisational designs"
 sidebar: documentation_sidebar
 permalink: archetypes.html
 folder: documentation
+tags: [archetype]
 ---
 
 > **Archetype (n):** The original pattern or model from which all things of the same kind are copied or on which they are based.

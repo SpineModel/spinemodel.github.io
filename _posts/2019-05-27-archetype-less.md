@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: less-archetype.html
-tags: [Archetype, LeSS]
+tags: [archetype, LeSS]
 folder: catalogue
 last_updated: 27 May 2019
 ---

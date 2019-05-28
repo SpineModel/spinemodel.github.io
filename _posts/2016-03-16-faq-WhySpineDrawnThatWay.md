@@ -2,7 +2,7 @@
 title: Why is the Spine Model visualised the way it is?
 category : FAQ
 permalink: why-spine-drawn-that-way.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 {% include note.html content="Find out [why it's called the *Spine* Model](why-spine-model)" %}

@@ -5,6 +5,7 @@ summary: "<b>NEEDS</b> > Values > Principles > Practices > Tools"
 sidebar: documentation_sidebar
 permalink: needs.html
 folder: documentation
+tags: [needs]
 ---
 
 {% include tip.html content="Resolve the statement: *From the perspective of {X}, this part of the system exists in order that {Y} can be achieved.*

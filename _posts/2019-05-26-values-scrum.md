@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, values
 category : Values
 permalink: scrum-values.html
-tags: [Values, Scrum]
+tags: [values, scrum]
 folder: catalogue
 last_updated: 25 May 2019
 ---

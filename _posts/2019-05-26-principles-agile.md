@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Principles
 permalink: agile-principles.html
-tags: [Principles, Agile]
+tags: [principles, agile_manifesto]
 folder: catalogue
 last_updated: 25 May 2019
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Special layout pages"
-tagName: special_layouts
+title: "Non-Violent Communication"
+tagName: nvc
 search: exclude
-permalink: tag_special_layouts.html
+permalink: tag_nvc.html
 sidebar: mydoc_sidebar
+hide_sidebar: true
 folder: tags
 ---
 

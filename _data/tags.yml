@@ -3,13 +3,27 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
+  - faq
   - news
-  - troubleshooting
-  - mobile
+  - needs
+  - nvc
+  - recordings
+  - uses
+  - case_study
+  - workshops
+  - practices
+  - scrum
+  - xp
+  - principles
+  - agile_manifesto
+  - flow
+  - less
+  - safe
+  - values
+  - archetype
+  - crystal
+  - dad
+  - dsdm
+  - fdd
+  - kanban
+  - getting_started

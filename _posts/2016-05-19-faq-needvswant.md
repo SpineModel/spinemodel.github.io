@@ -2,7 +2,7 @@
 title: What is the different between a "Need" and a "Want"?
 category : FAQ
 permalink: need-vs-want.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 [Needs] have a special meaning in the Spine Model, a meaning which we have appropriated from the [NVC](http://www.nonviolentcommunication.com/aboutnvc/aboutnvc.htm) view of the world. They are common to all people and not tied to any particular circumstance or strategy for fulfilling them.

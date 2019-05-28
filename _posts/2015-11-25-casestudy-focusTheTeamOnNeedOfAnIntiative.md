@@ -5,7 +5,7 @@ sidebar: documentation_sidebar
 keywords: documentation, model
 category : CaseStudy
 permalink: focusing-on-purpose.html
-tags: [Case Study]
+tags: [case_study]
 folder: documentation
 last_updated: 25 May 2019
 ---

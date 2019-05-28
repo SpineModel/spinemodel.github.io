@@ -6,15 +6,15 @@ permalink: agile-2015-conference-talk.html
 tags: [news, recordings]
 ---
 
-## Hear the talk live in South Africa 
+# Hear the talk live in South Africa 
 
 Following the success of the international presentation, we are offering South African organisations and user groups the opportunity of hearing it (we're happy to travel further if you are paying :) ).
 
 Please [contact us](mailto:kevint@gmail.com?cc=danie@danieroux.com&subject=Spine%20Model%20talk) to reserve a slot, or contact your local usergroup and ask them to invite us!
 
-<img style="float: right; border: 30px solid white" src="/assets/images/agile2015.png">
+<img style="float: right; border: 30px solid white" src="images/agile2015.png">
 
-## Feedback from Agile 2015 Conference
+# Feedback from Agile 2015 Conference
 
 [Kevin Trethewey](https://twitter.com/kevintrethewey) and [Danie Roux](https://twitter.com/danieroux) recently traveled to Washington DC, USA to present this talk. 
 
@@ -26,13 +26,13 @@ Further comments were...
 > <p>"The most useful talk to me of the conference.  I will experiment with the lessons learned in my systems."</p>
 > <p>"This session exceeded my expectations. These guys are masters of their craft. I could observe them living what they were teaching in the discussion portion. Lots to follow up on."</p>
 
-## Watch a recording of the Agile 2015 version
+# Watch a recording of the Agile 2015 version
 
 The talk was not formally recorded, so we did set up our own camera to capture the session...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xCX3HviHp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5GYEctRMC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Talk Abstract
+# Talk Abstract
 
 Great people, great ideas, great work environment. Often all the ingredients are there, but somehow there always seems to be fires to put out, misunderstanding to smooth over, damage to be undone.
 
@@ -44,7 +44,7 @@ The Spine Model is a systemic approach to mapping a work system that will enable
 
 **The Spine Model** has emerged from our coaching through necessity rather than intent. We have been applying and refining it for some time and, recently, teaching it to others. We have found that it meets a large need, particularly for people that have started to move beyond basics of Scrum and Agile practices.
 
-## Learning Outcomes
+# Learning Outcomes
 
 * Create and maintain a shared perception of how things are, and why.
 * Lift conversations to an effective level, breaking agreement deadlocks.

@@ -5,6 +5,7 @@ summary: "An easy to use tool for creation of Spine Model maps"
 sidebar: documentation_sidebar
 permalink: canvas.html
 folder: documentation
+tags: [getting_started, uses]
 ---
 
 {% include note.html content="There is coaching available on the application of this canvas [in our workshops](/spine-model-workshops), if you would like a jump-start before using it on your own" %}

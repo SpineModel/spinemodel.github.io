@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, practices
 category : Scrum-Practices
 permalink: practices-scrum-scrummaster.html
-tags: [Practices, Scrum]
+tags: [practices, scrum]
 folder: catalogue
 last_updated: 25 May 2019
 ---

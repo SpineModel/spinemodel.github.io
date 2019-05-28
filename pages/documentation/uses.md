@@ -5,6 +5,7 @@ summary: "These are some of the ways in which the Spine Model can been useful...
 sidebar: documentation_sidebar
 permalink: uses.html
 folder: documentation
+tags: [uses]
 ---
 
 <div class="home">

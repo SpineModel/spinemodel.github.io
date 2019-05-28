@@ -2,7 +2,7 @@
 title: Can Spine be used to coach non-software teams?
 category : FAQ
 permalink: coaching-non-software-teams.html
-tags: [FAQ]
+tags: [faq]
 ---
 
 The Spine model emerged from coaching and mentoring in teams that produce software. This means that many of the [Practices] and [Tools] relate directly to teams that work in the context of software development. 

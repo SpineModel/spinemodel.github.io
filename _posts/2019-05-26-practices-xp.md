@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, practices
 category : Practices
 permalink: xp-practices.html
-tags: [Practices, XP]
+tags: [practices, xp]
 folder: catalogue
 last_updated: 25 May 2019
 ---

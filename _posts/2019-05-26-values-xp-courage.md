@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, values
 category : XP-Values
 permalink: value-xp-courage.html
-tags: [Values, XP]
+tags: [values, xp]
 folder: catalogue
 last_updated: 25 May 2019
 ---

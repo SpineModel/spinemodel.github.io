@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: dad-archetype.html
-tags: [Archetype, DAD]
+tags: [archetype, DAD]
 folder: catalogue
 last_updated: 27 May 2019
 ---

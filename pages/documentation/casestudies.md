@@ -5,6 +5,7 @@ summary: "These are some of the ways in which the Spine Model has been applied..
 sidebar: documentation_sidebar
 permalink: casestudies.html
 folder: documentation
+tags: [case_study]
 ---
 
 <img style="float: right; border: 30px solid white" src="images/InTheWild/jo_perold.png">

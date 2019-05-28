@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, principles
 category : Principles
 permalink: less-principles.html
-tags: [Principles, LeSS]
+tags: [principles, less]
 folder: catalogue
 last_updated: 25 May 2019
 ---

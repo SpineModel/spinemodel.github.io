@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, values
 category : Values
 permalink: generic-values.html
-tags: [Values]
+tags: [values]
 folder: catalogue
 last_updated: 25 May 2019
 ---

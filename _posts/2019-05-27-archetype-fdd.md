@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: fdd-archetype.html
-tags: [Archetype, FDD]
+tags: [archetype, FDD]
 folder: catalogue
 last_updated: 27 May 2019
 ---

@@ -4,7 +4,7 @@ sidebar: catalogue_sidebar
 keywords: catalogue, archetype
 category : Archetypes
 permalink: agilemanifesto-archetype.html
-tags: [Archetype, AgileManifesto]
+tags: [archetype, agile_manifesto]
 folder: catalogue
 last_updated: 27 May 2019
 ---

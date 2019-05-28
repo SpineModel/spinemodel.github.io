@@ -5,6 +5,7 @@ summary: "Needs > Values > Principles > <b>PRACTICES</b> > Tools"
 sidebar: documentation_sidebar
 permalink: practices.html
 folder: documentation
+tags: [practices]
 ---
 
 {% include tip.html content="Resolve the statement: *We do {X} to apply the Principles that matter in this context.*" %}
