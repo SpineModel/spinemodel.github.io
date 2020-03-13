@@ -14,7 +14,7 @@ If you're new to using Spine Model to map a system, it helps to have some basic 
 
 Make sure you're using the latest version, check back here for updates:
 
-* [v0.1 Oct 2016](https://cdn.rawgit.com/SpineModel/spinemodel.github.io/pdf/SpineCanvas.0.1.pdf)
-* [v0.2 Nov 2016](https://cdn.rawgit.com/SpineModel/spinemodel.github.io/pdf/SpineCanvas.0.2.pdf)
+* [v0.1 Oct 2016](/pdf/SpineCanvas.0.1.pdf)
+* [v0.2 Nov 2016](/pdf/SpineCanvas.0.2.pdf)
 
 
